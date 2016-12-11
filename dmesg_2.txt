@@ -1,0 +1,1175 @@
+[    8.340974]  (3)[172:mtk-tpd]received raw data from touch panel as following:
+[    8.340985]  (3)[172:mtk-tpd]pPacket[0]=52 
+[    8.340985]  pPacket[1]=0 pPacket[2]=85 pPacket[3]=df pPacket[4]=0 
+[    8.340985]  pPacket[5]=0 pPacket[6]=0 pPacket[7]=4a 
+[    8.340997]  (3)[172:mtk-tpd][x,y]=[133,223]
+[    8.341004]  (3)[172:mtk-tpd][delta_x,delta_y]=[0,0]
+[    8.341013]  (3)[172:mtk-tpd][_DrvFwCtrlSelfParsePacket]: [x,y]=[133,223]
+[    8.341021]  (3)[172:mtk-tpd][_DrvFwCtrlSelfParsePacket]: point[x,y]=[46,139]
+[    8.341029]  (3)[172:mtk-tpd]tInfo->nFingerNum = 1...............
+[    8.341037]  (3)[172:mtk-tpd]*** DrvPlatformLyrFingerTouchPressed() ***
+[    8.341044]  (3)[172:mtk-tpd]point touch pressed
+[    8.341067]  (3)[172:mtk-tpd]*** _DrvPlatformLyrFingerTouchHandler() _gInterruptFlag = 0 ***
+[    8.351497]  (0)[171:irq/298-touch_p]*** _DrvPlatformLyrFingerTouchInterruptHandler() ***
+[    8.351514]  (0)[171:irq/298-touch_p]*** _DrvPlatformLyrFingerTouchInterruptHandler() _gInterruptFlag = 1 ***
+[    8.351548]  (2)[172:mtk-tpd]FIRMWARE_MODE_DEMO_MODE
+[    8.352585]  (0)[172:mtk-tpd]*** _DrvFwCtrlSelfParsePacket() ***
+[    8.352610]  (0)[172:mtk-tpd]check sum : [a6] == [a6]? 
+[    8.352618]  (0)[172:mtk-tpd]received raw data from touch panel as following:
+[    8.352630]  (0)[172:mtk-tpd]pPacket[0]=52 
+[    8.352630]  pPacket[1]=0 pPacket[2]=67 pPacket[3]=a1 pPacket[4]=0 
+[    8.352630]  pPacket[5]=0 pPacket[6]=0 pPacket[7]=a6 
+[    8.352642]  (0)[172:mtk-tpd][x,y]=[103,161]
+[    8.352650]  (0)[172:mtk-tpd][delta_x,delta_y]=[0,0]
+[    8.352658]  (0)[172:mtk-tpd][_DrvFwCtrlSelfParsePacket]: [x,y]=[103,161]
+[    8.352667]  (0)[172:mtk-tpd][_DrvFwCtrlSelfParsePacket]: point[x,y]=[36,100]
+[    8.352676]  (0)[172:mtk-tpd]tInfo->nFingerNum = 1...............
+[    8.352686]  (0)[172:mtk-tpd]*** DrvPlatformLyrFingerTouchPressed() ***
+[    8.352694]  (0)[172:mtk-tpd]point touch pressed
+[    8.352722]  (0)[172:mtk-tpd]*** _DrvPlatformLyrFingerTouchHandler() _gInterruptFlag = 0 ***
+[    8.363558]  (0)[171:irq/298-touch_p]*** _DrvPlatformLyrFingerTouchInterruptHandler() ***
+[    8.363574]  (0)[171:irq/298-touch_p]*** _DrvPlatformLyrFingerTouchInterruptHandler() _gInterruptFlag = 1 ***
+[    8.363609]  (1)[172:mtk-tpd]FIRMWARE_MODE_DEMO_MODE
+[    8.364652]  (0)[172:mtk-tpd]*** _DrvFwCtrlSelfParsePacket() ***
+[    8.364670]  (0)[172:mtk-tpd]check sum : [e7] == [e7]? 
+[    8.364678]  (0)[172:mtk-tpd]received raw data from touch panel as following:
+[    8.364689]  (0)[172:mtk-tpd]pPacket[0]=52 
+[    8.364689]  pPacket[1]=0 pPacket[2]=51 pPacket[3]=76 pPacket[4]=0 
+[    8.364689]  pPacket[5]=0 pPacket[6]=0 pPacket[7]=e7 
+[    8.364701]  (0)[172:mtk-tpd][x,y]=[81,118]
+[    8.364708]  (0)[172:mtk-tpd][delta_x,delta_y]=[0,0]
+[    8.364717]  (0)[172:mtk-tpd][_DrvFwCtrlSelfParsePacket]: [x,y]=[81,118]
+[    8.364725]  (0)[172:mtk-tpd][_DrvFwCtrlSelfParsePacket]: point[x,y]=[28,73]
+[    8.364734]  (0)[172:mtk-tpd]tInfo->nFingerNum = 1...............
+[    8.364742]  (0)[172:mtk-tpd]*** DrvPlatformLyrFingerTouchPressed() ***
+[    8.364749]  (0)[172:mtk-tpd]point touch pressed
+[    8.364771]  (0)[172:mtk-tpd]*** _DrvPlatformLyrFingerTouchHandler() _gInterruptFlag = 0 ***
+[    8.375472]  (0)[171:irq/298-touch_p]*** _DrvPlatformLyrFingerTouchInterruptHandler() ***
+[    8.375490]  (0)[171:irq/298-touch_p]*** _DrvPlatformLyrFingerTouchInterruptHandler() _gInterruptFlag = 1 ***
+[    8.375532]  (3)[172:mtk-tpd]FIRMWARE_MODE_DEMO_MODE
+[    8.376566]  (0)[172:mtk-tpd]*** _DrvFwCtrlSelfParsePacket() ***
+[    8.376584]  (0)[172:mtk-tpd]check sum : [1f] == [1f]? 
+[    8.376592]  (0)[172:mtk-tpd]received raw data from touch panel as following:
+[    8.376603]  (0)[172:mtk-tpd]pPacket[0]=52 
+[    8.376603]  pPacket[1]=0 pPacket[2]=3b pPacket[3]=54 pPacket[4]=0 
+[    8.376603]  pPacket[5]=0 pPacket[6]=0 pPacket[7]=1f 
+[    8.376615]  (0)[172:mtk-tpd][x,y]=[59,84]
+[    8.376623]  (0)[172:mtk-tpd][delta_x,delta_y]=[0,0]
+[    8.376631]  (0)[172:mtk-tpd][_DrvFwCtrlSelfParsePacket]: [x,y]=[59,84]
+[    8.376639]  (0)[172:mtk-tpd][_DrvFwCtrlSelfParsePacket]: point[x,y]=[20,52]
+[    8.376647]  (0)[172:mtk-tpd]tInfo->nFingerNum = 1...............
+[    8.376655]  (0)[172:mtk-tpd]*** DrvPlatformLyrFingerTouchPressed() ***
+[    8.376663]  (0)[172:mtk-tpd]point touch pressed
+[    8.376685]  (0)[172:mtk-tpd]*** _DrvPlatformLyrFingerTouchHandler() _gInterruptFlag = 0 ***
+[    8.396250]  (0)[171:irq/298-touch_p]*** _DrvPlatformLyrFingerTouchInterruptHandler() ***
+[    8.396270]  (0)[171:irq/298-touch_p]*** _DrvPlatformLyrFingerTouchInterruptHandler() _gInterruptFlag = 1 ***
+[    8.396318]  (1)[172:mtk-tpd]FIRMWARE_MODE_DEMO_MODE
+[    8.397348]  (1)[172:mtk-tpd]*** _DrvFwCtrlSelfParsePacket() ***
+[    8.397365]  (1)[172:mtk-tpd]check sum : [b4] == [b4]? 
+[    8.397373]  (1)[172:mtk-tpd]received raw data from touch panel as following:
+[    8.397384]  (1)[172:mtk-tpd]pPacket[0]=52 
+[    8.397384]  pPacket[1]=ff pPacket[2]=ff pPacket[3]=ff pPacket[4]=ff 
+[    8.397384]  pPacket[5]=ff pPacket[6]=ff pPacket[7]=b4 
+[    8.397396]  (1)[172:mtk-tpd][x,y]=[4095,4095]
+[    8.397404]  (1)[172:mtk-tpd][delta_x,delta_y]=[4095,4095]
+[    8.397411]  (1)[172:mtk-tpd]touch end
+[    8.397419]  (1)[172:mtk-tpd]*** DrvPlatformLyrFingerTouchReleased() ***
+[    8.397427]  (1)[172:mtk-tpd]point touch released
+[    8.397453]  (1)[172:mtk-tpd]*** _DrvPlatformLyrFingerTouchHandler() _gInterruptFlag = 0 ***
+[    8.408262]  (1)[171:irq/298-touch_p]*** _DrvPlatformLyrFingerTouchInterruptHandler() ***
+[    8.408280]  (1)[171:irq/298-touch_p]*** _DrvPlatformLyrFingerTouchInterruptHandler() _gInterruptFlag = 1 ***
+[    8.408311]  (3)[172:mtk-tpd]FIRMWARE_MODE_DEMO_MODE
+[    8.409331]  (3)[172:mtk-tpd]*** _DrvFwCtrlSelfParsePacket() ***
+[    8.409346]  (3)[172:mtk-tpd]check sum : [b4] == [b4]? 
+[    8.409354]  (3)[172:mtk-tpd]received raw data from touch panel as following:
+[    8.409365]  (3)[172:mtk-tpd]pPacket[0]=52 
+[    8.409365]  pPacket[1]=ff pPacket[2]=ff pPacket[3]=ff pPacket[4]=ff 
+[    8.409365]  pPacket[5]=ff pPacket[6]=ff pPacket[7]=b4 
+[    8.409377]  (3)[172:mtk-tpd][x,y]=[4095,4095]
+[    8.409384]  (3)[172:mtk-tpd][delta_x,delta_y]=[4095,4095]
+[    8.409392]  (3)[172:mtk-tpd]touch end
+[    8.409400]  (3)[172:mtk-tpd]*** DrvPlatformLyrFingerTouchReleased() ***
+[    8.409407]  (3)[172:mtk-tpd]point touch released
+[    8.409425]  (3)[172:mtk-tpd]*** _DrvPlatformLyrFingerTouchHandler() _gInterruptFlag = 0 ***
+[    8.420778]  (1)[171:irq/298-touch_p]*** _DrvPlatformLyrFingerTouchInterruptHandler() ***
+[    8.420803]  (1)[171:irq/298-touch_p]*** _DrvPlatformLyrFingerTouchInterruptHandler() _gInterruptFlag = 1 ***
+[    8.420864]  (2)[172:mtk-tpd]FIRMWARE_MODE_DEMO_MODE
+[    8.421913]  (1)[172:mtk-tpd]*** _DrvFwCtrlSelfParsePacket() ***
+[    8.421933]  (1)[172:mtk-tpd]check sum : [b4] == [b4]? 
+[    8.421943]  (1)[172:mtk-tpd]received raw data from touch panel as following:
+[    8.421955]  (1)[172:mtk-tpd]pPacket[0]=52 
+[    8.421955]  pPacket[1]=ff pPacket[2]=ff pPacket[3]=ff pPacket[4]=ff 
+[    8.421955]  pPacket[5]=ff pPacket[6]=ff pPacket[7]=b4 
+[    8.421969]  (1)[172:mtk-tpd][x,y]=[4095,4095]
+[    8.421979]  (1)[172:mtk-tpd][delta_x,delta_y]=[4095,4095]
+[    8.421987]  (1)[172:mtk-tpd]touch end
+[    8.421995]  (1)[172:mtk-tpd]*** DrvPlatformLyrFingerTouchReleased() ***
+[    8.422003]  (1)[172:mtk-tpd]point touch released
+[    8.422028]  (1)[172:mtk-tpd]*** _DrvPlatformLyrFingerTouchHandler() _gInterruptFlag = 0 ***
+[    8.651780]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 975mv, freq = 793000 KHz
+[    8.661742]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[    8.681576]  (3)[21:kworker/3:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[    8.691618]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[    8.711712]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 975mv, freq = 793000 KHz
+[    8.721747]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[    8.781573]  (1)[13:kworker/1:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[    8.791634]  (1)[13:kworker/1:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[    8.827085]  (3)[1:init]init: cannot find '/system/bin/boot_init', disabling 'boot_init'
+[    8.841592]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[    8.851624]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[    8.941561]  (1)[13:kworker/1:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[    8.961610]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[    9.051639]  (1)[13:kworker/1:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[    9.061619]  (1)[13:kworker/1:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[    9.181592]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[    9.191635]  (1)[13:kworker/1:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[    9.221753]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[    9.231731]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[    9.234620]  (1)[504:system_server][state_store]: state = (0)
+[    9.234639]  (1)[504:system_server][state_store]: pm_suspend() return (-22)
+[    9.251587]  (3)[21:kworker/3:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[    9.261628]  (3)[21:kworker/3:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[    9.272994]  (3)[553:android.display][PWM] disp_pwm_set_backlight_cmdq(id = 0x1, level_1024 = 409), old = -1
+[    9.381584]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[    9.391649]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[    9.407425]  (3)[87:hps_main][HPS] (0000)(4)DBG_HRT(324)(368)(12)(0) (4)(4)(4)(4)(1) (0)(0)(0) (2466)(52)(4) (0)(368)(52)(0)(368) wifi_base(0)
+[    9.476612]  (1)[175:mtk charger_hv_][BATTERY] Disable check battery exist.
+[    9.521604]  (3)[21:kworker/3:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[    9.531601]  (3)[21:kworker/3:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[    9.651575]  (3)[21:kworker/3:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[    9.661623]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[    9.681711]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[    9.691682]  (1)[13:kworker/1:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[    9.701606]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[    9.721638]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[    9.731613]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[    9.751581]  (3)[21:kworker/3:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[    9.761621]  (3)[21:kworker/3:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[    9.821701]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[    9.831738]  (1)[13:kworker/1:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[    9.881564]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[    9.891586]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   10.031713]  (3)[21:kworker/3:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   10.041713]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   10.051614]  (3)[21:kworker/3:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   10.085504] -(1)[596:packagescan-6]random: nonblocking pool is initialized
+[   10.101576]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   10.121638]  (3)[21:kworker/3:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   10.151581]  (1)[13:kworker/1:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   10.171598]  (3)[21:kworker/3:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   10.341583]  (1)[13:kworker/1:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   10.351620]  (3)[21:kworker/3:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   10.501595]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   10.511604]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   10.521579]  (1)[13:kworker/1:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   10.531595]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   10.541596]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   10.551600]  (1)[13:kworker/1:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   10.621569]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   10.631604]  (3)[21:kworker/3:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   10.677923]  (0)[175:mtk charger_hv_][BATTERY] Disable check battery exist.
+[   10.811561]  (1)[13:kworker/1:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   10.821643]  (3)[21:kworker/3:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   10.861696]  (3)[21:kworker/3:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   10.891678]  (1)[13:kworker/1:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   10.901657]  (1)[13:kworker/1:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   10.908413]  (2)[87:hps_main][HPS] (0000)(4)DBG_HRT(161)(122)(41)(0) (4)(4)(4)(4)(1) (0)(0)(0) (2590)(67)(3) (0)(122)(67)(0)(122) wifi_base(0)
+[   10.911757]  (1)[13:kworker/1:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   11.001586]  (3)[21:kworker/3:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   11.011662]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   11.021703]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   11.031609]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   11.061559]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   11.071632]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   11.191716]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   11.211742]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   11.461575]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   11.481597]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   11.491566]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   11.501608]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   11.541593]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   11.551612]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   11.561564]  (1)[13:kworker/1:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   11.581606]  (3)[21:kworker/3:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   11.601588]  (1)[13:kworker/1:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   11.621608]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   11.631569]  (1)[13:kworker/1:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   11.641625]  (1)[13:kworker/1:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   11.741706]  (3)[21:kworker/3:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   11.791704]  (1)[13:kworker/1:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 975mv, freq = 793000 KHz
+[   11.811854]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   11.821682]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   11.841602]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   11.851575]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   11.861621]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   11.879225]  (0)[175:mtk charger_hv_][BATTERY] Disable check battery exist.
+[   11.911551]  (3)[21:kworker/3:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   11.921649]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   11.931728]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   11.971570]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   11.981656]  (3)[21:kworker/3:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   11.991695]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   12.001602]  (3)[21:kworker/3:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   12.011698]  (1)[13:kworker/1:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 975mv, freq = 793000 KHz
+[   12.021649]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   12.071731]  (1)[13:kworker/1:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   12.081702]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   12.091704]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   12.101604]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   12.141692]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   12.151668]  (1)[13:kworker/1:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 975mv, freq = 793000 KHz
+[   12.161690]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   12.162777]  (2)[598:system_server]<HWMSEN> hwmsen_open
+[   12.163765]  (2)[598:system_server]<ALS/PS> ps vender_div value: 100
+[   12.164266]  (2)[598:system_server]<ALS/PS> als vender_div value: 100
+[   12.169420]  (2)[598:system_server]<ALS/PS> ps_store_active buf=0
+[   12.169437]  (2)[598:system_server]<ALS/PS> PS disable
+[   12.169449]  (2)[598:system_server][ALS/PS] [ps_enable_nodata]: ps enable=0 
+[   12.169460]  (2)[598:system_server][ALS/PS] [epl_sensor_enable_ps]: ps enable = 0
+[   12.169469]  (2)[598:system_server]<ALS/PS> ps real disable
+[   12.169478]  (2)[598:system_server]<ALS/PS>  ps_store_active done
+[   12.169780]  (2)[598:system_server]<ALS/PS> als_store_active buf=0
+[   12.169796]  (2)[598:system_server]<ALS/PS> ALSPS disable
+[   12.169806]  (2)[598:system_server]<ALS/PS> AAL status is 0
+[   12.169817]  (2)[598:system_server][ALS/PS] [als_enable_nodata]: als enable=0 
+[   12.169828]  (2)[598:system_server][ALS/PS] [epl_sensor_enable_als]: als enable = 0
+[   12.169837]  (2)[598:system_server]<ALS/PS> alsps real disable
+[   12.169846]  (2)[598:system_server]<ALS/PS>  alsps_store_active done
+[   12.171614]  (3)[21:kworker/3:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   12.181588]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   12.191597]  (1)[13:kworker/1:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   12.201561]  (1)[13:kworker/1:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   12.210021]  (1)[87:hps_main]CPU3: shutdown
+[   12.210038]  (1)[87:hps_main][Power/hotplug] mt_cpu_kill, cpu: 3
+[   12.211143]  (1)[87:hps_main][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   12.211183]  (1)[87:hps_main][HPS] (0200)(4)action end(211)(225)(7)(0) (4)(4)(4)(4)(1) (0)(0)(0) (1922)(80)(0) (0)(225)(80)(0)(225) wifi_base(0)
+[   12.221685]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   12.241694]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   12.261670]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   12.271726]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   12.271830] -(0)[0:swapper/0][Power/swap]DP: No enter --- SODI: No enter --- 
+[   12.331611]  (1)[13:kworker/1:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   12.351572]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   12.361659]  (1)[13:kworker/1:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   12.371684]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 975mv, freq = 793000 KHz
+[   12.381766]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   12.401642]  (1)[13:kworker/1:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   12.411335]  (0)[87:hps_main][HPS] (0000)(3)DBG_HRT(172)(171)(0)(0) (4)(4)(4)(4)(1) (342)(2)(0) (342)(2)(2) (0)(171)(2)(0)(171) wifi_base(0)
+[   12.411664]  (1)[13:kworker/1:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   12.431620]  (1)[13:kworker/1:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   12.441565]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   12.471589]  (1)[13:kworker/1:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   12.511711]  (1)[13:kworker/1:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   12.521769]  (1)[13:kworker/1:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   12.531705]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   12.538377]  (0)[236:lmkd]lowmemorykiller: lowmem_shrink: convert oom_adj to oom_score_adj:
+[   12.538402]  (0)[236:lmkd]lowmemorykiller: oom_adj 0 => oom_score_adj 0
+[   12.538417]  (0)[236:lmkd]lowmemorykiller: oom_adj 1 => oom_score_adj 58
+[   12.538432]  (0)[236:lmkd]lowmemorykiller: oom_adj 2 => oom_score_adj 117
+[   12.538447]  (0)[236:lmkd]lowmemorykiller: oom_adj 3 => oom_score_adj 176
+[   12.538462]  (0)[236:lmkd]lowmemorykiller: oom_adj 9 => oom_score_adj 529
+[   12.538477]  (0)[236:lmkd]lowmemorykiller: oom_adj 15 => oom_score_adj 1000
+[   12.541731]  (1)[13:kworker/1:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   12.551759]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   12.621700]  (1)[13:kworker/1:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   12.631736]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   12.771722]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   12.781728]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   12.821574]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   12.831592]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   12.852438]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   12.861668]  (1)[13:kworker/1:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 975mv, freq = 793000 KHz
+[   12.871743]  (1)[13:kworker/1:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   12.921717]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   12.931694]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   12.941667]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   12.951721]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   12.971707]  (1)[13:kworker/1:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   12.981751]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   12.991561]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   13.001580]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   13.041576]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   13.071677]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   13.080614]  (2)[175:mtk charger_hv_][BATTERY] Disable check battery exist.
+[   13.081670]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   13.212747]  (1)[87:hps_main]CPU2: shutdown
+[   13.212771]  (1)[87:hps_main][Power/hotplug] mt_cpu_kill, cpu: 2
+[   13.214373]  (1)[87:hps_main][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   13.214414]  (1)[87:hps_main][HPS] (0200)(3)action end(48)(47)(0)(0) (4)(4)(4)(4)(1) (155)(10)(0) (1353)(10)(2) (0)(47)(10)(0)(47) wifi_base(0)
+[   13.221666]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   13.591696]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 975mv, freq = 793000 KHz
+[   13.601691]  (1)[13:kworker/1:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   13.691494]  (1)[13:kworker/1:0]
+[   13.691494] <<SOC DVFS FLIPER>> flip to E(0), 361
+[   13.713005]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   13.721670]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   13.753297]  (1)[13:kworker/1:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   13.761703]  (1)[13:kworker/1:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   13.782303]  (1)[13:kworker/1:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   13.791691]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 975mv, freq = 793000 KHz
+[   13.801700]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   13.811741]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 975mv, freq = 793000 KHz
+[   13.821658]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   13.841724]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 975mv, freq = 793000 KHz
+[   13.853725]  (1)[13:kworker/1:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   13.861729]  (1)[13:kworker/1:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 975mv, freq = 793000 KHz
+[   13.873661]  (1)[13:kworker/1:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   13.891707]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   13.901686]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   13.911734]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   13.914965]  (1)[87:hps_main][HPS] (0000)(2)DBG_HRT(72)(98)(0)(0) (4)(4)(4)(4)(1) (138)(7)(1) (329)(7)(7) (0)(98)(7)(0)(98) wifi_base(0)
+[   13.921659]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   13.933013]  (1)[13:kworker/1:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   13.943929]  (1)[13:kworker/1:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   13.951712]  (1)[13:kworker/1:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   13.973452]  (1)[13:kworker/1:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 975mv, freq = 793000 KHz
+[   13.981734]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   13.991751]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   14.011736]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 975mv, freq = 793000 KHz
+[   14.016512]  (0)[87:hps_main]CPU1: shutdown
+[   14.016532]  (0)[87:hps_main][Power/hotplug] mt_cpu_kill, cpu: 1
+[   14.018251]  (0)[87:hps_main][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   14.018288]  (0)[87:hps_main][HPS] (0200)(2)action end(82)(122)(0)(0) (4)(4)(4)(4)(1) (154)(8)(0) (411)(8)(0) (0)(122)(8)(0)(122) wifi_base(0)
+[   14.031876]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   14.042097]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 975mv, freq = 793000 KHz
+[   14.051787]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   14.061713]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   14.075123]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 975mv, freq = 793000 KHz
+[   14.082978]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   14.091751]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   14.114705]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   14.122661]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 975mv, freq = 793000 KHz
+[   14.131742]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   14.142572]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 975mv, freq = 793000 KHz
+[   14.182812]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   14.191751]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   14.215334]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   14.231700]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   14.251908]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   14.261661]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   14.282742]  (0)[175:mtk charger_hv_][BATTERY] Disable check battery exist.
+[   14.284026]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   14.291744]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   14.312070]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 975mv, freq = 793000 KHz
+[   14.321771]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   14.331699]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   14.342361]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 975mv, freq = 793000 KHz
+[   14.361784]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   14.384172]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   14.391746]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 975mv, freq = 793000 KHz
+[   14.401728]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   14.411764]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   14.421725]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 975mv, freq = 793000 KHz
+[   14.431739]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   14.442322]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 975mv, freq = 793000 KHz
+[   14.451773]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   14.462194]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   14.484671]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   14.501747]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   14.511787]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 975mv, freq = 793000 KHz
+[   14.521759]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   14.532093]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   14.543198]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 975mv, freq = 793000 KHz
+[   14.553225]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   14.561718]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   14.584249]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   14.591752]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 975mv, freq = 793000 KHz
+[   14.601803]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   14.613649]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   14.624175]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   14.631771]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   14.643715]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   14.651819]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   14.661730]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 975mv, freq = 793000 KHz
+[   14.671732]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   14.682212]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   14.691766]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   14.703538]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   14.721728]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   14.743790]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   14.752432]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   14.761765]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   14.781783]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   14.792294]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   14.801772]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   14.811767]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   14.831678]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   14.851776]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   14.861749]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   14.881722]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   14.901719]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   14.911747]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   14.921717]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 975mv, freq = 793000 KHz
+[   14.931761]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   14.952605]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   14.961786]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   14.983378]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   14.991750]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   15.012895]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   15.021701]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   15.031890]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   15.054799]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   15.061606]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   15.071752]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   15.081756]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   15.091770]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   15.101677]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   15.113036]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 975mv, freq = 793000 KHz
+[   15.121745]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   15.131755]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   15.153913]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   15.161747]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   15.181743]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   15.191751]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 975mv, freq = 793000 KHz
+[   15.201741]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   15.213431]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 975mv, freq = 793000 KHz
+[   15.221780]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   15.232578]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   15.253975]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   15.261766]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   15.271734]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   15.283869]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   15.293850]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   15.301755]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   15.313377]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   15.331723]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   15.341700]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   15.354466]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   15.361743]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   15.381764]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   15.392032]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 975mv, freq = 793000 KHz
+[   15.401738]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   15.415337]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 975mv, freq = 793000 KHz
+[   15.421810]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   15.422642]  (0)[87:hps_main][HPS] (0000)(1)DBG_HRT(49)(119)(0)(0) (4)(4)(4)(4)(1) (105)(14)(0) (0)(0)(0) (0)(119)(14)(0)(119) wifi_base(0)
+[   15.431758]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   15.455093]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   15.461668]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   15.481793]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 975mv, freq = 793000 KHz
+[   15.488360]  (0)[175:mtk charger_hv_][BATTERY] Disable check battery exist.
+[   15.491761]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   15.502118]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   15.522397]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   15.531758]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 975mv, freq = 793000 KHz
+[   15.541732]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   15.555850]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   15.561749]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   15.581763]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 975mv, freq = 793000 KHz
+[   15.591843]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   15.601781]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   15.614670]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 975mv, freq = 793000 KHz
+[   15.622411]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   15.631756]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   15.650649]  (0)[174:bat_thread_kthr][BAT_thread]Cable in, CHR_Type_num=1
+[   15.651776]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   15.661823]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 975mv, freq = 793000 KHz
+[   15.671743]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   15.682037]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   15.691927]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   15.701700]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   15.715464]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 975mv, freq = 793000 KHz
+[   15.723483]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   15.731687]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   15.755732]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   15.771706]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   15.782179]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 975mv, freq = 793000 KHz
+[   15.792261]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   15.802199]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   15.802751]  (0)[174:bat_thread_kthr]AvgVbat=(4270,4367),AvgI=(503,382),VChr=5005,AvgT=(26,26),SOC=(100,100),UI_SOC=100,ZCV=4345 bcct:0:0 I:65000
+[   15.802773]  (0)[174:bat_thread_kthr][BATTERY] Disable check battery exist.
+[   15.806984]  (0)[174:bat_thread_kthr][BATTERY] Default CC mode charging : 50000, input current = 50000
+[   15.809694]  (0)[174:bat_thread_kthr]Can't find closest level, small value first 
+[   15.815493]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 975mv, freq = 793000 KHz
+[   15.825389]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   15.831719]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   15.832767]  (0)[174:bat_thread_kthr][100percent], UI_SOC(100), reset(0) bat_full(1) ever100(1)
+[   15.832791]  (0)[174:bat_thread_kthr][recharging] UI_SOC=100, SOC=100
+[   15.832807]  (0)[174:bat_thread_kthr]UI_SOC=(100), resetBatteryMeter=(0)
+[   15.832833] -(0)[174:bat_thread_kthr]mtk_rtc_hal_common: rtc_spare_reg[0] = {16412, 127, 8}
+[   15.841932]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   15.851582]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   15.861753]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 975mv, freq = 793000 KHz
+[   15.871699]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   15.882504]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 975mv, freq = 793000 KHz
+[   15.891771]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   15.901729]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   15.923713]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   15.931749]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   15.953961]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   15.961669]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   15.975108]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   15.981754]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   15.991786]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   15.997656]  (0)[218:logd.auditd]type=1400 audit(1262349823.220:64): avc: denied { read write } for pid=245 comm="mediaserver" name="mmcblk0p2" dev="tmpfs" ino=3388 scontext=u:r:mediaserver:s0 tcontext=u:object_r:nvram_device:s0 tclass=blk_file permissive=1
+[   16.003909]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   16.034357]  (0)[218:logd.auditd]type=1400 audit(1262349823.220:65): avc: denied { open } for pid=245 comm="mediaserver" path="/dev/block/mmcblk0p2" dev="tmpfs" ino=3388 scontext=u:r:mediaserver:s0 tcontext=u:object_r:nvram_device:s0 tclass=blk_file permissive=1
+[   16.123709]  (0)[87:hps_main][Power/hotplug] mt_smp_boot_secondary, cpu: 1
+[   16.123894] -(1)[0:swapper/1]CPU1: Booted secondary processor
+[   16.123906] -(1)[0:swapper/1][Power/hotplug] platform_secondary_init, cpu: 1
+[   16.124011] -(1)[0:swapper/1]CPU1: update cpu_capacity 1024
+[   16.124020] -(1)[0:swapper/1]CPU1: thread -1, cpu 1, socket 0, mpidr 80000001
+[   16.124697]  (0)[87:hps_main][Power/hotplug] mt_smp_boot_secondary, cpu: 2
+[   16.124880] -(2)[0:swapper/2]CPU2: Booted secondary processor
+[   16.124891] -(2)[0:swapper/2][Power/hotplug] platform_secondary_init, cpu: 2
+[   16.124995] -(2)[0:swapper/2]CPU2: update cpu_capacity 1024
+[   16.125005] -(2)[0:swapper/2]CPU2: thread -1, cpu 2, socket 0, mpidr 80000002
+[   16.125734]  (1)[87:hps_main][Power/hotplug] mt_smp_boot_secondary, cpu: 3
+[   16.125927] -(3)[0:swapper/3]CPU3: Booted secondary processor
+[   16.125939] -(3)[0:swapper/3][Power/hotplug] platform_secondary_init, cpu: 3
+[   16.126064] -(3)[0:swapper/3]CPU3: update cpu_capacity 1024
+[   16.126076] -(3)[0:swapper/3]CPU3: thread -1, cpu 3, socket 0, mpidr 80000003
+[   16.126672]  (1)[87:hps_main][HPS] (0020)(1)action end(100)(463)(0)(0) (4)(4)(4)(4)(1) (124)(20)(0) (0)(0)(0) (1)(463)(21)(0)(463) wifi_base(0)
+[   16.141757]  (1)[13:kworker/1:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 975mv, freq = 793000 KHz
+[   16.161706]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   16.171760]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   16.183560]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   16.261728]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   16.271681]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   16.421752]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   16.433594]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   16.441729]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 975mv, freq = 793000 KHz
+[   16.451677]  (1)[13:kworker/1:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   16.512125]  (1)[13:kworker/1:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 975mv, freq = 793000 KHz
+[   16.531713]  (1)[13:kworker/1:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   16.561702]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 975mv, freq = 793000 KHz
+[   16.571686]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   16.601783]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   16.611712]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   16.690462]  (0)[175:mtk charger_hv_][BATTERY] Disable check battery exist.
+[   16.781738]  (1)[13:kworker/1:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   16.791723]  (1)[13:kworker/1:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   16.871731]  (1)[13:kworker/1:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 975mv, freq = 793000 KHz
+[   16.881702]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   16.928361]  (1)[87:hps_main]CPU3: shutdown
+[   16.928388]  (1)[87:hps_main][Power/hotplug] mt_cpu_kill, cpu: 3
+[   16.929550]  (1)[87:hps_main][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   16.930271]  (0)[87:hps_main]CPU2: shutdown
+[   16.930286]  (0)[87:hps_main][Power/hotplug] mt_cpu_kill, cpu: 2
+[   16.931635]  (0)[87:hps_main]CPU1: shutdown
+[   16.931651]  (0)[87:hps_main][Power/hotplug] mt_cpu_kill, cpu: 1
+[   16.932441]  (0)[87:hps_main][HPS] (0200)(4)action end(63)(70)(0)(0) (4)(4)(4)(4)(1) (0)(0)(0) (561)(8)(0) (0)(70)(8)(0)(70) wifi_base(0)
+[   16.932460]  (0)[87:hps_main][HPS] (0200)(4)DBG_HRT(63)(70)(0)(0) (4)(4)(4)(4)(1) (0)(0)(0) (0)(0)(0) (0)(0)(0)(0)(70) wifi_base(0)
+[   16.944098]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   16.951819]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   16.961799]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   16.971737]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   16.981778]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   16.992245]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   17.001775]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   17.014346]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   17.041712]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   17.063787]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   17.071812]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   17.081866]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   17.174040]  (0)[504:system_server]acc_open
+[   17.174078]  (0)[504:system_server]acc_release
+[   17.235322]  (0)[87:hps_main][Power/hotplug] mt_smp_boot_secondary, cpu: 1
+[   17.235506] -(1)[0:swapper/1]CPU1: Booted secondary processor
+[   17.235517] -(1)[0:swapper/1][Power/hotplug] platform_secondary_init, cpu: 1
+[   17.235623] -(1)[0:swapper/1]CPU1: update cpu_capacity 1024
+[   17.235632] -(1)[0:swapper/1]CPU1: thread -1, cpu 1, socket 0, mpidr 80000001
+[   17.236339]  (1)[87:hps_main][Power/hotplug] mt_smp_boot_secondary, cpu: 2
+[   17.236520] -(2)[0:swapper/2]CPU2: Booted secondary processor
+[   17.236531] -(2)[0:swapper/2][Power/hotplug] platform_secondary_init, cpu: 2
+[   17.236640] -(2)[0:swapper/2]CPU2: update cpu_capacity 1024
+[   17.236650] -(2)[0:swapper/2]CPU2: thread -1, cpu 2, socket 0, mpidr 80000002
+[   17.237401]  (1)[87:hps_main][Power/hotplug] mt_smp_boot_secondary, cpu: 3
+[   17.237574] -(3)[0:swapper/3]CPU3: Booted secondary processor
+[   17.237585] -(3)[0:swapper/3][Power/hotplug] platform_secondary_init, cpu: 3
+[   17.237675] -(3)[0:swapper/3]CPU3: update cpu_capacity 1024
+[   17.237684] -(3)[0:swapper/3]CPU3: thread -1, cpu 3, socket 0, mpidr 80000003
+[   17.238166]  (1)[87:hps_main][HPS] (0020)(1)action end(100)(483)(0)(0) (4)(4)(4)(4)(1) (150)(2)(0) (0)(0)(0) (1)(483)(3)(0)(483) wifi_base(0)
+[   17.291634]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   17.302583]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   17.331776]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   17.361675]  (3)[21:kworker/3:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   17.371678]  (3)[21:kworker/3:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   17.382725]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   17.411625]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   17.421995]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   17.441636]  (3)[21:kworker/3:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   17.461639]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   17.472609]  (3)[21:kworker/3:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   17.491752]  (3)[21:kworker/3:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   17.503717]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   17.511553]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   17.521737]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   17.532826]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   17.541649]  (1)[13:kworker/1:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   17.551603]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   17.571615]  (1)[13:kworker/1:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   17.603450]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   17.611659]  (1)[13:kworker/1:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   17.622190]  (1)[13:kworker/1:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   17.632860]  (3)[21:kworker/3:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   17.641777]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 975mv, freq = 793000 KHz
+[   17.651668]  (1)[13:kworker/1:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   17.671752]  (3)[21:kworker/3:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   17.681754]  (3)[21:kworker/3:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   17.691649]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 975mv, freq = 793000 KHz
+[   17.701749]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   17.733393]  (1)[13:kworker/1:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   17.741599]  (1)[13:kworker/1:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   17.791788]  (1)[13:kworker/1:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   17.801734]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   17.813113]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   17.821726]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   17.834254]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   17.851706]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   17.861828]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   17.871748]  (1)[681:kworker/1:2][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   17.881795]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   17.892323]  (2)[175:mtk charger_hv_][BATTERY] Disable check battery exist.
+[   17.892661]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   17.901567]  (3)[21:kworker/3:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   17.911707]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   17.913107]  (3)[682:sdcard]SELinux: initialized (dev fuse, type fuse), uses genfs_contexts
+[   17.913714]  (3)[682:sdcard]SELinux: initialized (dev fuse, type fuse), uses genfs_contexts
+[   17.914215]  (3)[682:sdcard]SELinux: initialized (dev fuse, type fuse), uses genfs_contexts
+[   17.941636]  (3)[21:kworker/3:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   17.951655]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   17.963101]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   17.974729]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   17.991649]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   18.001625]  (1)[681:kworker/1:2][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   18.031627]  (1)[681:kworker/1:2][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   18.039658]  (0)[87:hps_main]CPU3: shutdown
+[   18.039679]  (0)[87:hps_main][Power/hotplug] mt_cpu_kill, cpu: 3
+[   18.040976]  (0)[87:hps_main][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   18.041026]  (0)[87:hps_main][HPS] (0200)(4)action end(271)(292)(5)(0) (4)(4)(4)(4)(1) (0)(0)(0) (1891)(8)(0) (0)(292)(8)(0)(292) wifi_base(0)
+[   18.052297]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   18.061898]  (1)[681:kworker/1:2][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   18.242169]  (0)[87:hps_main][Power/hotplug] mt_smp_boot_secondary, cpu: 3
+[   18.242385] -(3)[0:swapper/3]CPU3: Booted secondary processor
+[   18.242401] -(3)[0:swapper/3][Power/hotplug] platform_secondary_init, cpu: 3
+[   18.242554] -(3)[0:swapper/3]CPU3: update cpu_capacity 1024
+[   18.242569] -(3)[0:swapper/3]CPU3: thread -1, cpu 3, socket 0, mpidr 80000003
+[   18.243231]  (0)[87:hps_main][HPS] (0020)(3)action end(298)(1197)(0)(0) (4)(4)(4)(4)(1) (281)(1)(1) (281)(1)(1) (1)(1197)(2)(0)(1197) wifi_base(0)
+[   18.294071]  (0)[68:kworker/0:1]
+[   18.294071] <<SOC DVFS FLIPER>> flip to S(0), 1576
+[   18.443413]  (0)[87:hps_main][HPS] (0000)(4)DBG_HRT(378)(593)(9)(0) (4)(4)(4)(4)(1) (0)(0)(0) (774)(2)(2) (0)(593)(2)(0)(593) wifi_base(0)
+[   18.493121]  (3)[218:logd.auditd]type=1400 audit(1262349825.720:66): avc: denied { getattr } for pid=698 comm="d.process.media" path="/storage/5F4E-035A" dev="tmpfs" ino=7976 scontext=u:r:untrusted_app:s0:c512,c768 tcontext=u:object_r:storage_stub_file:s0 tclass=dir permissive=1
+[   18.522224]  (2)[698:d.process.media]mtp_open
+[   18.599981]  (1)[221:vold]SELinux: initialized (dev mmcblk1p1, type vfat), uses genfs_contexts
+[   18.622897]  (0)[850:sdcard]SELinux: initialized (dev fuse, type fuse), uses genfs_contexts
+[   18.623990]  (0)[850:sdcard]SELinux: initialized (dev fuse, type fuse), uses genfs_contexts
+[   18.624988]  (0)[850:sdcard]SELinux: initialized (dev fuse, type fuse), uses genfs_contexts
+[   19.097486]  (1)[175:mtk charger_hv_][BATTERY] Disable check battery exist.
+[   19.311575]  (1)[681:kworker/1:2][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   19.321596]  (1)[681:kworker/1:2][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   19.591573]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   19.601632]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   19.944421]  (3)[87:hps_main][HPS] (0000)(4)DBG_HRT(360)(476)(2)(0) (4)(4)(4)(4)(1) (0)(0)(0) (2487)(17)(1) (0)(476)(17)(0)(476) wifi_base(0)
+[   20.300504]  (2)[175:mtk charger_hv_][BATTERY] Disable check battery exist.
+[   20.390678]  (1)[518:FinalizerDaemon]binder: 504:518 refcount change on invalid ref 110
+[   20.451582]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   20.461609]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   20.501576]  (1)[681:kworker/1:2][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   20.531616]  (3)[21:kworker/3:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   21.281159]  (1)[642:Binder_2]M4Uconfig_port:CAM_IMGI,v1,s0
+[   21.281189]  (1)[642:Binder_2]M4Uconfig_port:IMGO,v1,s0
+[   21.281207]  (1)[642:Binder_2]M4Uconfig_port:IMGO2O,v1,s0
+[   21.281226]  (1)[642:Binder_2]M4Uconfig_port:LSCI,v1,s0
+[   21.281244]  (1)[642:Binder_2]M4Uconfig_port:CAM_ESFKO,v1,s0
+[   21.281263]  (1)[642:Binder_2]M4Uconfig_port:CAM_AAO,v1,s0
+[   21.288769]  (2)[1243:initCamdevice]__sched_setscheduler 1244:3ATHREAD sched_priority=-8
+[   21.375231]  (2)[1243:initCamdevice]Division by zero in kernel.
+[   21.375255]  (2)[1243:initCamdevice]CPU: 2 PID: 1243 Comm: initCamdevice Tainted: G        W      3.18.19 #2
+[   21.375262]  (2)[1243:initCamdevice]Backtrace: 
+[   21.375287]  (2)[1243:initCamdevice][<c0012e58>] (dump_backtrace) from [<c0012fec>] (show_stack+0x18/0x1c)
+[   21.375294]  (2)[1243:initCamdevice] r6:c0cfa000 r5:ffffffff r4:00000000 r3:00404040
+[   21.375347]  (2)[1243:initCamdevice][<c0012fd4>] (show_stack) from [<c08e9670>] (dump_stack+0x78/0xc4)
+[   21.375360]  (2)[1243:initCamdevice][<c08e95f8>] (dump_stack) from [<c00139d4>] (__div0+0x18/0x20)
+[   21.375366]  (2)[1243:initCamdevice] r5:00000001 r4:c0d5ce98
+[   21.375386]  (2)[1243:initCamdevice][<c00139bc>] (__div0) from [<c025a334>] (Ldiv0+0x8/0x10)
+[   21.375402]  (2)[1243:initCamdevice][<c046195c>] (open) from [<c04591b0>] (kd_MultiSensorOpen+0x10c/0x188)
+[   21.375408]  (2)[1243:initCamdevice] r10:00000001 r9:c0f5385c r8:c0cf9758 r7:00000000 r6:00000000 r5:c0f53854
+[   21.375431]  (2)[1243:initCamdevice] r4:00000000
+[   21.375447]  (2)[1243:initCamdevice][<c04590a4>] (kd_MultiSensorOpen) from [<c045ad74>] (CAMERA_HW_Ioctl+0x204/0x1f3c)
+[   21.375454]  (2)[1243:initCamdevice] r10:00006900 r9:00000012 r8:da3df338 r7:ae36484c r6:c0cf9930 r5:c7e84e40
+[   21.375476]  (2)[1243:initCamdevice] r4:00000000
+[   21.375495]  (2)[1243:initCamdevice][<c045ab70>] (CAMERA_HW_Ioctl) from [<c0135c24>] (do_vfs_ioctl+0x4dc/0x598)
+[   21.375502]  (2)[1243:initCamdevice] r10:ae36484c r9:00000012 r8:da3df338 r7:ae36484c r6:00000000 r5:c7e84e40
+[   21.375544]  (2)[1243:initCamdevice] r4:c7e84e41
+[   21.375561]  (2)[1243:initCamdevice][<c0135748>] (do_vfs_ioctl) from [<c0135d34>] (SyS_ioctl+0x54/0x7c)
+[   21.375567]  (2)[1243:initCamdevice] r10:00000000 r9:00000012 r8:00006900 r7:ae36484c r6:00000000 r5:c7e84e40
+[   21.375589]  (2)[1243:initCamdevice] r4:c7e84e41
+[   21.375606]  (2)[1243:initCamdevice][<c0135ce0>] (SyS_ioctl) from [<c000e900>] (ret_fast_syscall+0x0/0x38)
+[   21.375612]  (2)[1243:initCamdevice] r9:c3776000 r8:c000eaa4 r7:00000036 r6:00000000 r5:af28e0a0 r4:b4816988
+[   21.375637]  (2)[1243:initCamdevice]Division by zero in kernel.
+[   21.375651]  (2)[1243:initCamdevice]CPU: 2 PID: 1243 Comm: initCamdevice Tainted: G        W      3.18.19 #2
+[   21.375662]  (2)[1243:initCamdevice]Backtrace: 
+[   21.375682]  (2)[1243:initCamdevice][<c0012e58>] (dump_backtrace) from [<c0012fec>] (show_stack+0x18/0x1c)
+[   21.375689]  (2)[1243:initCamdevice] r6:c0cfa000 r5:ffffffff r4:00000000 r3:00404040
+[   21.375714]  (2)[1243:initCamdevice][<c0012fd4>] (show_stack) from [<c08e9670>] (dump_stack+0x78/0xc4)
+[   21.375725]  (2)[1243:initCamdevice][<c08e95f8>] (dump_stack) from [<c00139d4>] (__div0+0x18/0x20)
+[   21.375731]  (2)[1243:initCamdevice] r5:00000000 r4:c0d5ce98
+[   21.375749]  (2)[1243:initCamdevice][<c00139bc>] (__div0) from [<c025a334>] (Ldiv0+0x8/0x10)
+[   21.375763]  (2)[1243:initCamdevice][<c046195c>] (open) from [<c04591b0>] (kd_MultiSensorOpen+0x10c/0x188)
+[   21.375769]  (2)[1243:initCamdevice] r10:00000001 r9:c0f5385c r8:c0cf9758 r7:00000000 r6:00000000 r5:c0f53854
+[   21.375791]  (2)[1243:initCamdevice] r4:00000000
+[   21.375807]  (2)[1243:initCamdevice][<c04590a4>] (kd_MultiSensorOpen) from [<c045ad74>] (CAMERA_HW_Ioctl+0x204/0x1f3c)
+[   21.375813]  (2)[1243:initCamdevice] r10:00006900 r9:00000012 r8:da3df338 r7:ae36484c r6:c0cf9930 r5:c7e84e40
+[   21.375853]  (2)[1243:initCamdevice] r4:00000000
+[   21.375872]  (2)[1243:initCamdevice][<c045ab70>] (CAMERA_HW_Ioctl) from [<c0135c24>] (do_vfs_ioctl+0x4dc/0x598)
+[   21.375879]  (2)[1243:initCamdevice] r10:ae36484c r9:00000012 r8:da3df338 r7:ae36484c r6:00000000 r5:c7e84e40
+[   21.375901]  (2)[1243:initCamdevice] r4:c7e84e41
+[   21.375918]  (2)[1243:initCamdevice][<c0135748>] (do_vfs_ioctl) from [<c0135d34>] (SyS_ioctl+0x54/0x7c)
+[   21.375924]  (2)[1243:initCamdevice] r10:00000000 r9:00000012 r8:00006900 r7:ae36484c r6:00000000 r5:c7e84e40
+[   21.375946]  (2)[1243:initCamdevice] r4:c7e84e41
+[   21.375962]  (2)[1243:initCamdevice][<c0135ce0>] (SyS_ioctl) from [<c000e900>] (ret_fast_syscall+0x0/0x38)
+[   21.375969]  (2)[1243:initCamdevice] r9:c3776000 r8:c000eaa4 r7:00000036 r6:00000000 r5:af28e0a0 r4:b4816988
+[   21.375994]  (2)[1243:initCamdevice]Division by zero in kernel.
+[   21.376006]  (2)[1243:initCamdevice]CPU: 2 PID: 1243 Comm: initCamdevice Tainted: G        W      3.18.19 #2
+[   21.376012]  (2)[1243:initCamdevice]Backtrace: 
+[   21.376029]  (2)[1243:initCamdevice][<c0012e58>] (dump_backtrace) from [<c0012fec>] (show_stack+0x18/0x1c)
+[   21.376036]  (2)[1243:initCamdevice] r6:00000000 r5:ffffffff r4:00000000 r3:00404040
+[   21.376061]  (2)[1243:initCamdevice][<c0012fd4>] (show_stack) from [<c08e9670>] (dump_stack+0x78/0xc4)
+[   21.376073]  (2)[1243:initCamdevice][<c08e95f8>] (dump_stack) from [<c00139d4>] (__div0+0x18/0x20)
+[   21.376079]  (2)[1243:initCamdevice] r5:00000000 r4:c0d5ce98
+[   21.376096]  (2)[1243:initCamdevice][<c00139bc>] (__div0) from [<c025a334>] (Ldiv0+0x8/0x10)
+[   21.376110]  (2)[1243:initCamdevice][<c046195c>] (open) from [<c04591b0>] (kd_MultiSensorOpen+0x10c/0x188)
+[   21.376116]  (2)[1243:initCamdevice] r10:00000001 r9:c0f5385c r8:c0cf9758 r7:00000000 r6:00000000 r5:c0f53854
+[   21.376138]  (2)[1243:initCamdevice] r4:00000000
+[   21.376155]  (2)[1243:initCamdevice][<c04590a4>] (kd_MultiSensorOpen) from [<c045ad74>] (CAMERA_HW_Ioctl+0x204/0x1f3c)
+[   21.376161]  (2)[1243:initCamdevice] r10:00006900 r9:00000012 r8:da3df338 r7:ae36484c r6:c0cf9930 r5:c7e84e40
+[   21.376183]  (2)[1243:initCamdevice] r4:00000000
+[   21.376201]  (2)[1243:initCamdevice][<c045ab70>] (CAMERA_HW_Ioctl) from [<c0135c24>] (do_vfs_ioctl+0x4dc/0x598)
+[   21.376207]  (2)[1243:initCamdevice] r10:ae36484c r9:00000012 r8:da3df338 r7:ae36484c r6:00000000 r5:c7e84e40
+[   21.376229]  (2)[1243:initCamdevice] r4:c7e84e41
+[   21.376246]  (2)[1243:initCamdevice][<c0135748>] (do_vfs_ioctl) from [<c0135d34>] (SyS_ioctl+0x54/0x7c)
+[   21.376252]  (2)[1243:initCamdevice] r10:00000000 r9:00000012 r8:00006900 r7:ae36484c r6:00000000 r5:c7e84e40
+[   21.376275]  (2)[1243:initCamdevice] r4:c7e84e41
+[   21.376291]  (2)[1243:initCamdevice][<c0135ce0>] (SyS_ioctl) from [<c000e900>] (ret_fast_syscall+0x0/0x38)
+[   21.376298]  (2)[1243:initCamdevice] r9:c3776000 r8:c000eaa4 r7:00000036 r6:00000000 r5:af28e0a0 r4:b4816988
+[   21.376322]  (2)[1243:initCamdevice]Division by zero in kernel.
+[   21.376333]  (2)[1243:initCamdevice]CPU: 2 PID: 1243 Comm: initCamdevice Tainted: G        W      3.18.19 #2
+[   21.376339]  (2)[1243:initCamdevice]Backtrace: 
+[   21.376356]  (2)[1243:initCamdevice][<c0012e58>] (dump_backtrace) from [<c0012fec>] (show_stack+0x18/0x1c)
+[   21.376362]  (2)[1243:initCamdevice] r6:00000000 r5:ffffffff r4:00000000 r3:00404040
+[   21.376387]  (2)[1243:initCamdevice][<c0012fd4>] (show_stack) from [<c08e9670>] (dump_stack+0x78/0xc4)
+[   21.376398]  (2)[1243:initCamdevice][<c08e95f8>] (dump_stack) from [<c00139d4>] (__div0+0x18/0x20)
+[   21.376404]  (2)[1243:initCamdevice] r5:00000000 r4:c0d5ce98
+[   21.376422]  (2)[1243:initCamdevice][<c00139bc>] (__div0) from [<c025a334>] (Ldiv0+0x8/0x10)
+[   21.376436]  (2)[1243:initCamdevice][<c046195c>] (open) from [<c04591b0>] (kd_MultiSensorOpen+0x10c/0x188)
+[   21.376442]  (2)[1243:initCamdevice] r10:00000001 r9:c0f5385c r8:c0cf9758 r7:00000000 r6:00000000 r5:c0f53854
+[   21.376465]  (2)[1243:initCamdevice] r4:00000000
+[   21.376481]  (2)[1243:initCamdevice][<c04590a4>] (kd_MultiSensorOpen) from [<c045ad74>] (CAMERA_HW_Ioctl+0x204/0x1f3c)
+[   21.376487]  (2)[1243:initCamdevice] r10:00006900 r9:00000012 r8:da3df338 r7:ae36484c r6:c0cf9930 r5:c7e84e40
+[   21.376510]  (2)[1243:initCamdevice] r4:00000000
+[   21.376527]  (2)[1243:initCamdevice][<c045ab70>] (CAMERA_HW_Ioctl) from [<c0135c24>] (do_vfs_ioctl+0x4dc/0x598)
+[   21.376534]  (2)[1243:initCamdevice] r10:ae36484c r9:00000012 r8:da3df338 r7:ae36484c r6:00000000 r5:c7e84e40
+[   21.376556]  (2)[1243:initCamdevice] r4:c7e84e41
+[   21.376573]  (2)[1243:initCamdevice][<c0135748>] (do_vfs_ioctl) from [<c0135d34>] (SyS_ioctl+0x54/0x7c)
+[   21.376579]  (2)[1243:initCamdevice] r10:00000000 r9:00000012 r8:00006900 r7:ae36484c r6:00000000 r5:c7e84e40
+[   21.376602]  (2)[1243:initCamdevice] r4:c7e84e41
+[   21.376619]  (2)[1243:initCamdevice][<c0135ce0>] (SyS_ioctl) from [<c000e900>] (ret_fast_syscall+0x0/0x38)
+[   21.376625]  (2)[1243:initCamdevice] r9:c3776000 r8:c000eaa4 r7:00000036 r6:00000000 r5:af28e0a0 r4:b4816988
+[   21.376650]  (2)[1243:initCamdevice]Division by zero in kernel.
+[   21.376661]  (2)[1243:initCamdevice]CPU: 2 PID: 1243 Comm: initCamdevice Tainted: G        W      3.18.19 #2
+[   21.376667]  (2)[1243:initCamdevice]Backtrace: 
+[   21.376684]  (2)[1243:initCamdevice][<c0012e58>] (dump_backtrace) from [<c0012fec>] (show_stack+0x18/0x1c)
+[   21.376690]  (2)[1243:initCamdevice] r6:00000000 r5:ffffffff r4:00000000 r3:00404040
+[   21.376715]  (2)[1243:initCamdevice][<c0012fd4>] (show_stack) from [<c08e9670>] (dump_stack+0x78/0xc4)
+[   21.376727]  (2)[1243:initCamdevice][<c08e95f8>] (dump_stack) from [<c00139d4>] (__div0+0x18/0x20)
+[   21.376733]  (2)[1243:initCamdevice] r5:00000000 r4:c0d5ce98
+[   21.376750]  (2)[1243:initCamdevice][<c00139bc>] (__div0) from [<c025a334>] (Ldiv0+0x8/0x10)
+[   21.376765]  (2)[1243:initCamdevice][<c046195c>] (open) from [<c04591b0>] (kd_MultiSensorOpen+0x10c/0x188)
+[   21.376771]  (2)[1243:initCamdevice] r10:00000001 r9:c0f5385c r8:c0cf9758 r7:00000000 r6:00000000 r5:c0f53854
+[   21.376794]  (2)[1243:initCamdevice] r4:00000000
+[   21.376810]  (2)[1243:initCamdevice][<c04590a4>] (kd_MultiSensorOpen) from [<c045ad74>] (CAMERA_HW_Ioctl+0x204/0x1f3c)
+[   21.376816]  (2)[1243:initCamdevice] r10:00006900 r9:00000012 r8:da3df338 r7:ae36484c r6:c0cf9930 r5:c7e84e40
+[   21.376839]  (2)[1243:initCamdevice] r4:00000000
+[   21.376857]  (2)[1243:initCamdevice][<c045ab70>] (CAMERA_HW_Ioctl) from [<c0135c24>] (do_vfs_ioctl+0x4dc/0x598)
+[   21.376863]  (2)[1243:initCamdevice] r10:ae36484c r9:00000012 r8:da3df338 r7:ae36484c r6:00000000 r5:c7e84e40
+[   21.376885]  (2)[1243:initCamdevice] r4:c7e84e41
+[   21.376901]  (2)[1243:initCamdevice][<c0135748>] (do_vfs_ioctl) from [<c0135d34>] (SyS_ioctl+0x54/0x7c)
+[   21.376907]  (2)[1243:initCamdevice] r10:00000000 r9:00000012 r8:00006900 r7:ae36484c r6:00000000 r5:c7e84e40
+[   21.376931]  (2)[1243:initCamdevice] r4:c7e84e41
+[   21.376947]  (2)[1243:initCamdevice][<c0135ce0>] (SyS_ioctl) from [<c000e900>] (ret_fast_syscall+0x0/0x38)
+[   21.376954]  (2)[1243:initCamdevice] r9:c3776000 r8:c000eaa4 r7:00000036 r6:00000000 r5:af28e0a0 r4:b4816988
+[   21.379369]  (3)[642:Binder_2][ION] error: cache_map_vm_struct is NULL, retry
+[   21.435488]  (0)[87:hps_main]__sched_setscheduler 1266:F858THREAD sched_priority=-3
+[   21.445417]  (0)[87:hps_main][HPS] (0000)(4)DBG_HRT(400)(1450)(43)(0) (4)(4)(4)(4)(1) (0)(0)(0) (3188)(32)(0) (9)(1450)(32)(0)(1450) wifi_base(0)
+[   21.502008]  (2)[175:mtk charger_hv_][BATTERY] Disable check battery exist.
+[   21.557708]  (0)[642:Binder_2]M4Uconfig_port:CAM_IMGI,v0,s0
+[   21.557739]  (0)[642:Binder_2]M4Uconfig_port:IMGO,v0,s0
+[   21.557757]  (0)[642:Binder_2]M4Uconfig_port:IMGO2O,v0,s0
+[   21.557775]  (0)[642:Binder_2]M4Uconfig_port:LSCI,v0,s0
+[   21.557794]  (0)[642:Binder_2]M4Uconfig_port:CAM_ESFKO,v0,s0
+[   21.557812]  (0)[642:Binder_2]M4Uconfig_port:CAM_AAO,v0,s0
+[   21.578979]  (1)[1221:RenderThread]Dump cpuinfo
+[   21.640179]  (1)[1283:initCamdevice]GC2366_camera_sensor[get_resolution] E
+[   21.640203]  (1)[1283:initCamdevice]GC2366_camera_sensor[feature_control] feature_id = 3003
+[   21.640217]  (1)[1283:initCamdevice]GC2366_camera_sensor[feature_control] feature_id = 3002
+[   21.640391]  (0)[641:Binder_1]M4Uconfig_port:CAM_IMGI,v1,s0
+[   21.640420]  (0)[641:Binder_1]M4Uconfig_port:IMGO,v1,s0
+[   21.640442]  (0)[641:Binder_1]M4Uconfig_port:IMGO2O,v1,s0
+[   21.640460]  (0)[641:Binder_1]M4Uconfig_port:LSCI,v1,s0
+[   21.640479]  (0)[641:Binder_1]M4Uconfig_port:CAM_ESFKO,v1,s0
+[   21.640497]  (0)[641:Binder_1]M4Uconfig_port:CAM_AAO,v1,s0
+[   21.646992]  (0)[1287:mod.eleven:main]__sched_setscheduler 1284:3ATHREAD sched_priority=-8
+[   21.690109]  (0)[1287:mod.eleven:main]Dump cpuinfo
+[   21.716328]  (1)[1283:initCamdevice]GC2366_camera_sensor[open] GC2366,MIPI 2LANE
+[   21.716760]  (1)[1283:initCamdevice]GC2366_camera_sensor[open] i2c write id: 0x6e, sensor id: 0x2366
+[   21.716775]  (0)[641:Binder_1]GC2366_camera_sensor[sensor_init] E
+[   21.736983]  (0)[641:Binder_1]GC2366_camera_sensor[feature_control] feature_id = 3080
+[   21.737002]  (0)[641:Binder_1]GC2366_camera_sensor[feature_control] SENSOR_FEATURE_GET_CROP_INFO scenarioId:0
+[   21.737128]  (0)[641:Binder_1]GC2366_camera_sensor[feature_control] feature_id = 3080
+[   21.737141]  (0)[641:Binder_1]GC2366_camera_sensor[feature_control] SENSOR_FEATURE_GET_CROP_INFO scenarioId:1
+[   21.737238]  (0)[641:Binder_1]GC2366_camera_sensor[feature_control] feature_id = 3080
+[   21.737249]  (0)[641:Binder_1]GC2366_camera_sensor[feature_control] SENSOR_FEATURE_GET_CROP_INFO scenarioId:2
+[   21.747914]  (0)[641:Binder_1]__sched_setscheduler 1295:F858THREAD sched_priority=-3
+[   21.802491]  (0)[641:Binder_1]M4Uconfig_port:CAM_IMGI,v0,s0
+[   21.802523]  (0)[641:Binder_1]M4Uconfig_port:IMGO,v0,s0
+[   21.802542]  (0)[641:Binder_1]M4Uconfig_port:IMGO2O,v0,s0
+[   21.802561]  (0)[641:Binder_1]M4Uconfig_port:LSCI,v0,s0
+[   21.802579]  (0)[641:Binder_1]M4Uconfig_port:CAM_ESFKO,v0,s0
+[   21.802598]  (0)[641:Binder_1]M4Uconfig_port:CAM_AAO,v0,s0
+[   21.802860]  (0)[641:Binder_1]GC2366_camera_sensor[close] E
+[   22.131649]  (0)[518:FinalizerDaemon]binder: 504:518 refcount change on invalid ref 146
+[   22.281449]  (0)[176:wdtk-0][WDK], local_bit:0x0, cpu:0,RT[22281434129]
+[   22.281458]  (0)[176:wdtk-0][WDK], local_bit:0x1, cpu:0, check bit0x:f, lasthpg_cpu:3, lasthpg_act:1, lasthpg_t:18241937119, RT[22281452206]
+[   22.281473]  (0)[176:wdtk-0][thread:176][RT:22281463667] 2010-01-01 12:43:49.516763 UTC;android time 2010-01-01 15:43:49.516763
+[   22.291459]  (1)[177:wdtk-1][WDK], local_bit:0x1, cpu:1,RT[22291447052]
+[   22.291469]  (1)[177:wdtk-1][WDK], local_bit:0x3, cpu:1, check bit0x:f, lasthpg_cpu:3, lasthpg_act:1, lasthpg_t:18241937119, RT[22291462052]
+[   22.291483]  (1)[177:wdtk-1][thread:177][RT:22291473590] 2010-01-01 12:43:49.526773 UTC;android time 2010-01-01 15:43:49.526773
+[   22.301455]  (2)[178:wdtk-2][WDK], local_bit:0x3, cpu:2,RT[22301445206]
+[   22.301464]  (2)[178:wdtk-2][WDK], local_bit:0x7, cpu:2, check bit0x:f, lasthpg_cpu:3, lasthpg_act:1, lasthpg_t:18241937119, RT[22301457590]
+[   22.301478]  (2)[178:wdtk-2][thread:178][RT:22301468744] 2010-01-01 12:43:49.536768 UTC;android time 2010-01-01 15:43:49.536768
+[   22.304087] -(0)[0:swapper/0][Power/swap]DP: No enter --- SODI: No enter --- 
+[   22.321461]  (3)[179:wdtk-3][WDK], local_bit:0x7, cpu:3,RT[22321447513]
+[   22.321471]  (3)[179:wdtk-3][WDK], local_bit:0xf, cpu:3, check bit0x:f, lasthpg_cpu:3, lasthpg_act:1, lasthpg_t:18241937119, RT[22321464667]
+[   22.321475]  (3)[179:wdtk-3][WDK]: kick Ex WDT,RT[22321472283]
+[   22.321608]  (3)[179:wdtk-3][thread:179][RT:22321592975] 2010-01-01 12:43:49.556893 UTC;android time 2010-01-01 15:43:49.556893
+[   22.451726]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   22.461744]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1168mv, freq = 1248000 KHz
+[   22.491593]  (3)[21:kworker/3:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   22.501639]  (1)[681:kworker/1:2][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1168mv, freq = 1248000 KHz
+[   22.661580]  (3)[21:kworker/3:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   22.681599]  (3)[21:kworker/3:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1168mv, freq = 1248000 KHz
+[   22.704692]  (2)[175:mtk charger_hv_][BATTERY] Disable check battery exist.
+[   22.921587]  (3)[21:kworker/3:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   22.941601]  (1)[681:kworker/1:2][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1168mv, freq = 1248000 KHz
+[   22.946525]  (2)[87:hps_main][HPS] (0000)(4)DBG_HRT(363)(656)(14)(0) (4)(4)(4)(4)(1) (0)(0)(0) (3040)(47)(7) (0)(656)(47)(0)(656) wifi_base(0)
+[   22.971596]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   22.981615]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1168mv, freq = 1248000 KHz
+[   23.011561]  (1)[681:kworker/1:2][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   23.021608]  (1)[681:kworker/1:2][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1168mv, freq = 1248000 KHz
+[   23.042449]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   23.051617]  (1)[681:kworker/1:2][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1168mv, freq = 1248000 KHz
+[   23.091609]  (1)[681:kworker/1:2][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   23.101630]  (3)[21:kworker/3:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1168mv, freq = 1248000 KHz
+[   23.121600]  (1)[681:kworker/1:2][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   23.131596]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1168mv, freq = 1248000 KHz
+[   23.271741]  (1)[681:kworker/1:2][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 975mv, freq = 793000 KHz
+[   23.281698]  (1)[681:kworker/1:2][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   23.291687]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 975mv, freq = 793000 KHz
+[   23.311693]  (3)[21:kworker/3:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   23.321731]  (3)[21:kworker/3:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1168mv, freq = 1248000 KHz
+[   23.371616]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   23.381617]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1168mv, freq = 1248000 KHz
+[   23.421562]  (1)[681:kworker/1:2][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   23.431657]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   23.441720]  (3)[21:kworker/3:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 975mv, freq = 793000 KHz
+[   23.451745]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1168mv, freq = 1248000 KHz
+[   23.531709]  (3)[21:kworker/3:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   23.541733]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1168mv, freq = 1248000 KHz
+[   23.551572]  (1)[681:kworker/1:2][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   23.561664]  (1)[681:kworker/1:2][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   23.581736]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 975mv, freq = 793000 KHz
+[   23.591695]  (3)[21:kworker/3:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   23.601615]  (1)[681:kworker/1:2][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1168mv, freq = 1248000 KHz
+[   23.651574]  (3)[21:kworker/3:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   23.661617]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1168mv, freq = 1248000 KHz
+[   23.671580]  (3)[21:kworker/3:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   23.681606]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1168mv, freq = 1248000 KHz
+[   23.691701]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 975mv, freq = 793000 KHz
+[   23.701651]  (1)[681:kworker/1:2][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   23.711708]  (3)[21:kworker/3:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   23.721748]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1168mv, freq = 1248000 KHz
+[   23.731731]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 975mv, freq = 793000 KHz
+[   23.741721]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   23.747979]  (0)[87:hps_main]CPU3: shutdown
+[   23.747998]  (0)[87:hps_main][Power/hotplug] mt_cpu_kill, cpu: 3
+[   23.749230]  (0)[87:hps_main][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1168mv, freq = 1248000 KHz
+[   23.749277]  (0)[87:hps_main][HPS] (0200)(4)action end(170)(181)(7)(0) (4)(4)(4)(4)(1) (0)(0)(0) (1849)(55)(7) (0)(181)(55)(0)(181) wifi_base(0)
+[   23.761619]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   23.771618]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1168mv, freq = 1248000 KHz
+[   23.781579]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   23.821674]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   23.841738]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1168mv, freq = 1248000 KHz
+[   23.861696]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   23.871707]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   23.902397]  (1)[681:kworker/1:2][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 975mv, freq = 793000 KHz
+[   23.906493]  (0)[175:mtk charger_hv_][BATTERY] Disable check battery exist.
+[   23.911743]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1168mv, freq = 1248000 KHz
+[   23.931603]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   23.941617]  (0)[68:kworker/0:1][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1168mv, freq = 1248000 KHz
+[   24.071618]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   24.081670]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   24.091670]  (1)[681:kworker/1:2][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 975mv, freq = 793000 KHz
+[   24.101748]  (0)[1407:kworker/0:2][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   24.111770]  (0)[1407:kworker/0:2][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1168mv, freq = 1248000 KHz
+[   24.131689]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   24.141677]  (1)[681:kworker/1:2][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   24.161753]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1168mv, freq = 1248000 KHz
+[   24.171823]  (0)[1407:kworker/0:2][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   24.181741]  (1)[681:kworker/1:2][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1168mv, freq = 1248000 KHz
+[   24.201765]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   24.211757]  (1)[681:kworker/1:2][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1168mv, freq = 1248000 KHz
+[   24.231741]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 975mv, freq = 793000 KHz
+[   24.241697]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   24.251600]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1168mv, freq = 1248000 KHz
+[   24.261567]  (0)[1407:kworker/0:2][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   24.271685]  (1)[681:kworker/1:2][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   24.281716]  (0)[1407:kworker/0:2][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   24.291618]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1168mv, freq = 1248000 KHz
+[   24.301768]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   24.311704]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   24.321623]  (1)[681:kworker/1:2][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1168mv, freq = 1248000 KHz
+[   24.331647]  (1)[681:kworker/1:2][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   24.351600]  (1)[681:kworker/1:2][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1168mv, freq = 1248000 KHz
+[   24.361566]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   24.371692]  (1)[681:kworker/1:2][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   24.381756]  (0)[1407:kworker/0:2][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1168mv, freq = 1248000 KHz
+[   24.391738]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   24.401749]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   24.412792]  (1)[681:kworker/1:2][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1168mv, freq = 1248000 KHz
+[   24.431699]  (1)[681:kworker/1:2][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 975mv, freq = 793000 KHz
+[   24.441729]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   24.449849]  (1)[87:hps_main][HPS] (0000)(3)DBG_HRT(123)(172)(0)(0) (4)(4)(4)(4)(1) (259)(7)(1) (1342)(7)(7) (0)(172)(7)(0)(172) wifi_base(0)
+[   24.451735]  (1)[681:kworker/1:2][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1168mv, freq = 1248000 KHz
+[   24.471737]  (0)[1407:kworker/0:2][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   24.481712]  (0)[1407:kworker/0:2][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   24.491608]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1168mv, freq = 1248000 KHz
+[   24.501727]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   24.511779]  (0)[1407:kworker/0:2][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1168mv, freq = 1248000 KHz
+[   24.531693]  (0)[1407:kworker/0:2][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   24.551765]  (1)[681:kworker/1:2][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1168mv, freq = 1248000 KHz
+[   24.561732]  (0)[1407:kworker/0:2][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   24.578643]  (0)[100:kworker/u8:2]binder: [name:binder&]binder_flush: 298 woke 2 threads
+[   24.581677]  (1)[681:kworker/1:2][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   24.601642]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   24.671706]  (1)[681:kworker/1:2][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 975mv, freq = 793000 KHz
+[   24.681728]  (1)[681:kworker/1:2][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1168mv, freq = 1248000 KHz
+[   24.731579]  (2)[17:kworker/2:0][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   24.741638]  (0)[1407:kworker/0:2][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   24.751051]  (1)[87:hps_main]CPU2: shutdown
+[   24.751075]  (1)[87:hps_main][Power/hotplug] mt_cpu_kill, cpu: 2
+[   24.753056]  (1)[87:hps_main][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1168mv, freq = 1248000 KHz
+[   24.753096]  (1)[87:hps_main][HPS] (0200)(3)action end(77)(94)(0)(0) (4)(4)(4)(4)(1) (159)(10)(0) (1232)(10)(2) (0)(94)(10)(0)(94) wifi_base(0)
+[   24.761731]  (0)[1407:kworker/0:2][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   24.772774]  (1)[681:kworker/1:2][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1168mv, freq = 1248000 KHz
+[   24.801722]  (0)[1407:kworker/0:2][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   24.803191]  (0)[1:init]init: Service 'bootanim' (pid 298) exited with status 0
+[   24.811689]  (0)[1407:kworker/0:2][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   24.961716]  (1)[681:kworker/1:2][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   24.971594]  (1)[681:kworker/1:2][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1168mv, freq = 1248000 KHz
+[   24.981697]  (1)[681:kworker/1:2][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   24.991747]  (1)[681:kworker/1:2][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1168mv, freq = 1248000 KHz
+[   25.001645]  (0)[1407:kworker/0:2][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   25.011615]  (0)[1407:kworker/0:2][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1168mv, freq = 1248000 KHz
+[   25.041567]  (0)[1407:kworker/0:2][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   25.051770]  (0)[1407:kworker/0:2][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   25.061689]  (1)[681:kworker/1:2][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   25.071709]  (1)[681:kworker/1:2][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 975mv, freq = 793000 KHz
+[   25.072622]  (0)[1:init]init: write_file: Unable to open '/sys/devices/system/cpu/cpu4/online': No such file or directory
+[   25.072722]  (0)[1:init]init: write_file: Unable to open '/sys/devices/system/cpu/cpu5/online': No such file or directory
+[   25.072796]  (0)[1:init]init: write_file: Unable to open '/sys/devices/system/cpu/cpu6/online': No such file or directory
+[   25.072869]  (0)[1:init]init: write_file: Unable to open '/sys/devices/system/cpu/cpu7/online': No such file or directory
+[   25.073361]  (0)[1:init][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1168mv, freq = 1248000 KHz
+[   25.073606]  (0)[1:init]init: write_file: Unable to open '/sys/devices/system/cpu/cpu2/cpufreq/scaling_max_freq': No such file or directory
+[   25.073678]  (0)[1:init]init: write_file: Unable to open '/sys/devices/system/cpu/cpu3/cpufreq/scaling_max_freq': No such file or directory
+[   25.073726]  (0)[1:init]init: write_file: Unable to open '/sys/devices/system/cpu/cpu4/cpufreq/scaling_max_freq': No such file or directory
+[   25.073774]  (0)[1:init]init: write_file: Unable to open '/sys/devices/system/cpu/cpu5/cpufreq/scaling_max_freq': No such file or directory
+[   25.073821]  (0)[1:init]init: write_file: Unable to open '/sys/devices/system/cpu/cpu6/cpufreq/scaling_max_freq': No such file or directory
+[   25.073868]  (0)[1:init]init: write_file: Unable to open '/sys/devices/system/cpu/cpu7/cpufreq/scaling_max_freq': No such file or directory
+[   25.074096]  (0)[1:init]init: write_file: Unable to open '/sys/devices/system/cpu/cpu2/cpufreq/scaling_min_freq': No such file or directory
+[   25.074150]  (0)[1:init]init: write_file: Unable to open '/sys/devices/system/cpu/cpu3/cpufreq/scaling_min_freq': No such file or directory
+[   25.074197]  (0)[1:init]init: write_file: Unable to open '/sys/devices/system/cpu/cpu4/cpufreq/scaling_min_freq': No such file or directory
+[   25.074243]  (0)[1:init]init: write_file: Unable to open '/sys/devices/system/cpu/cpu5/cpufreq/scaling_min_freq': No such file or directory
+[   25.074290]  (0)[1:init]init: write_file: Unable to open '/sys/devices/system/cpu/cpu6/cpufreq/scaling_min_freq': No such file or directory
+[   25.074336]  (0)[1:init]init: write_file: Unable to open '/sys/devices/system/cpu/cpu7/cpufreq/scaling_min_freq': No such file or directory
+[   25.074676]  (0)[1:init]init: write_file: Unable to open '/sys/devices/system/cpu/cpu2/cpufreq/scaling_governor': No such file or directory
+[   25.074733]  (0)[1:init]init: write_file: Unable to open '/sys/devices/system/cpu/cpu3/cpufreq/scaling_governor': No such file or directory
+[   25.074780]  (0)[1:init]init: write_file: Unable to open '/sys/devices/system/cpu/cpu4/cpufreq/scaling_governor': No such file or directory
+[   25.074827]  (0)[1:init]init: write_file: Unable to open '/sys/devices/system/cpu/cpu5/cpufreq/scaling_governor': No such file or directory
+[   25.074873]  (0)[1:init]init: write_file: Unable to open '/sys/devices/system/cpu/cpu6/cpufreq/scaling_governor': No such file or directory
+[   25.074920]  (0)[1:init]init: write_file: Unable to open '/sys/devices/system/cpu/cpu7/cpufreq/scaling_governor': No such file or directory
+[   25.108012]  (0)[175:mtk charger_hv_][BATTERY] Disable check battery exist.
+[   25.353758]  (0)[87:hps_main][Power/hotplug] mt_smp_boot_secondary, cpu: 2
+[   25.353912] -(2)[0:swapper/2]CPU2: Booted secondary processor
+[   25.353923] -(2)[0:swapper/2][Power/hotplug] platform_secondary_init, cpu: 2
+[   25.354015] -(2)[0:swapper/2]CPU2: update cpu_capacity 1024
+[   25.354025] -(2)[0:swapper/2]CPU2: thread -1, cpu 2, socket 0, mpidr 80000002
+[   25.354524]  (0)[87:hps_main][HPS] (0080)(2)action end(192)(336)(0)(0) (4)(4)(4)(4)(1) (388)(6)(0) (557)(5)(5) (0)(336)(6)(0)(336) wifi_base(0)
+[   25.650668]  (0)[174:bat_thread_kthr][BAT_thread]Cable in, CHR_Type_num=1
+[   25.779240]  (0)[174:bat_thread_kthr]AvgVbat=(4273,4368),AvgI=(501,441),VChr=4986,AvgT=(26,26),SOC=(100,100),UI_SOC=100,ZCV=4348 bcct:0:0 I:65000
+[   25.779257]  (0)[174:bat_thread_kthr][BATTERY] Disable check battery exist.
+[   25.781568]  (0)[174:bat_thread_kthr][BATTERY] Default CC mode charging : 50000, input current = 50000
+[   25.783359]  (0)[174:bat_thread_kthr]Can't find closest level, small value first 
+[   25.791879]  (1)[174:bat_thread_kthr][100percent], UI_SOC(100), reset(0) bat_full(1) ever100(1)
+[   25.791899]  (1)[174:bat_thread_kthr][recharging] UI_SOC=100, SOC=100
+[   25.791909]  (1)[174:bat_thread_kthr]UI_SOC=(100), resetBatteryMeter=(0)
+[   25.791927] -(1)[174:bat_thread_kthr]mtk_rtc_hal_common: rtc_spare_reg[0] = {16412, 127, 8}
+[   25.954861]  (1)[87:hps_main][HPS] (0000)(3)DBG_HRT(26)(26)(0)(0) (4)(4)(4)(4)(1) (154)(6)(0) (615)(6)(6) (0)(26)(6)(0)(26) wifi_base(0)
+[   26.031862]  (1)[56:cfinteractive][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   26.131691]  (2)[56:cfinteractive][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 494000 KHz
+[   26.156215]  (1)[87:hps_main]CPU2: shutdown
+[   26.156243]  (1)[87:hps_main][Power/hotplug] mt_cpu_kill, cpu: 2
+[   26.157772]  (1)[87:hps_main][HPS] (0200)(3)action end(4)(3)(0)(0) (4)(4)(4)(4)(1) (113)(8)(0) (728)(8)(0) (0)(3)(8)(0)(3) wifi_base(0)
+[   26.193684]  (0)[4:kworker/0:0]
+[   26.193684] <<SOC DVFS FLIPER>> flip to E(0), 188
+[   26.251810]  (0)[56:cfinteractive][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   26.309270]  (0)[175:mtk charger_hv_][BATTERY] Disable check battery exist.
+[   26.331881]  (1)[56:cfinteractive][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1168mv, freq = 1248000 KHz
+[   26.451762]  (1)[56:cfinteractive][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 494000 KHz
+[   26.491908]  (0)[56:cfinteractive][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1168mv, freq = 1248000 KHz
+[   27.458875]  (0)[87:hps_main][HPS] (0000)(2)DBG_HRT(27)(37)(0)(0) (4)(4)(4)(4)(1) (204)(13)(1) (1104)(13)(5) (0)(37)(13)(0)(37) wifi_base(0)
+[   27.511133]  (1)[175:mtk charger_hv_][BATTERY] Disable check battery exist.
+[   27.871825]  (0)[56:cfinteractive][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1000mv, freq = 858000 KHz
+[   27.931804]  (1)[56:cfinteractive][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   27.941680]  (0)[56:cfinteractive][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1168mv, freq = 1248000 KHz
+[   28.459915]  (1)[87:hps_main][Power/hotplug] mt_smp_boot_secondary, cpu: 2
+[   28.460108] -(2)[0:swapper/2]CPU2: Booted secondary processor
+[   28.460121] -(2)[0:swapper/2][Power/hotplug] platform_secondary_init, cpu: 2
+[   28.460242] -(2)[0:swapper/2]CPU2: update cpu_capacity 1024
+[   28.460252] -(2)[0:swapper/2]CPU2: thread -1, cpu 2, socket 0, mpidr 80000002
+[   28.460787]  (1)[87:hps_main][HPS] (0080)(2)action end(193)(354)(0)(0) (4)(4)(4)(4)(1) (384)(23)(1) (916)(22)(6) (0)(354)(23)(0)(354) wifi_base(0)
+[   28.551811]  (0)[56:cfinteractive][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 494000 KHz
+[   28.714103]  (1)[175:mtk charger_hv_][BATTERY] Disable check battery exist.
+[   28.961271]  (1)[87:hps_main][HPS] (0000)(3)DBG_HRT(60)(65)(0)(0) (4)(4)(4)(4)(1) (63)(5)(1) (200)(5)(5) (0)(65)(5)(0)(65) wifi_base(0)
+[   29.262994]  (0)[87:hps_main]CPU2: shutdown
+[   29.263026]  (0)[87:hps_main][Power/hotplug] mt_cpu_kill, cpu: 2
+[   29.265895]  (0)[87:hps_main]CPU1: shutdown
+[   29.265924]  (0)[87:hps_main][Power/hotplug] mt_cpu_kill, cpu: 1
+[   29.267870]  (0)[87:hps_main][HPS] (0200)(3)action end(1)(1)(0)(0) (4)(4)(4)(4)(1) (3)(8)(0) (207)(8)(0) (0)(1)(8)(0)(1) wifi_base(0)
+[   29.915685]  (0)[175:mtk charger_hv_][BATTERY] Disable check battery exist.
+[   30.363149]  (0)[55:dlpt_notify_thr][PBM] [ma_to_mw] 4369(mV) * 5163(mA) = 22557(mW)
+[   30.381924]  (0)[56:cfinteractive][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   30.468985]  (0)[87:hps_main][HPS] (0000)(1)DBG_HRT(89)(218)(0)(0) (4)(4)(4)(4)(1) (107)(12)(0) (0)(0)(0) (0)(218)(12)(0)(218) wifi_base(0)
+[   30.544726]  (0)[56:cfinteractive][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 494000 KHz
+[   30.631444]  (0)[141:hang_detect][Hang_Detect] hang_detect disabled.
+[   30.761893]  (0)[56:cfinteractive][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   30.906988]  (0)[56:cfinteractive][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 494000 KHz
+[   31.001905]  (0)[56:cfinteractive][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   31.104063]  (0)[56:cfinteractive][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 494000 KHz
+[   31.117229]  (0)[175:mtk charger_hv_][BATTERY] Disable check battery exist.
+[   31.281902]  (0)[56:cfinteractive][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   31.364067]  (0)[56:cfinteractive][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 494000 KHz
+[   31.541896]  (0)[56:cfinteractive][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   31.623615]  (0)[56:cfinteractive][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 494000 KHz
+[   31.881890]  (0)[56:cfinteractive][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   31.970310]  (0)[87:hps_main][HPS] (0000)(1)DBG_HRT(27)(29)(0)(0) (4)(4)(4)(4)(1) (40)(27)(1) (0)(0)(0) (0)(29)(27)(0)(29) wifi_base(0)
+[   31.981435]  (0)[164:read_poweroff_l]ram_console: open expdb partition error [-2]!
+[   32.001798]  (0)[56:cfinteractive][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 494000 KHz
+[   32.201893]  (0)[56:cfinteractive][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   32.277471] -(0)[0:swapper/0][Power/swap]CNT(dpidle,rgidle): [0] = (0,18168), [1] = (0,17239), [2] = (0,13491), [3] = (0,9848), 
+[   32.277495] -(0)[0:swapper/0][Power/swap]dpidle_block_cnt: [by_cpu] = 56882, [by_clk] = 1486, [by_tmr] = 0, [by_oth] = 0, [by_vtg] = 0, 
+[   32.277510] -(0)[0:swapper/0][Power/swap]dpidle_block_mask: 0x00000002, 0x00000401, 0x00034c03, 0x0000000f, 0x00000000, 0x00000000, 0x00000000, 0x00000000, 0x00000000, 0x00000000, 
+[   32.304439]  (0)[56:cfinteractive][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 494000 KHz
+[   32.311887] -(0)[0:swapper/0][Power/swap]DP: No enter --- SODI: No enter --- 
+[   32.318762]  (0)[175:mtk charger_hv_][BATTERY] Disable check battery exist.
+[   32.481902]  (0)[56:cfinteractive][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   32.601783]  (0)[56:cfinteractive][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 494000 KHz
+[   32.781926]  (0)[56:cfinteractive][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   32.871459]  (0)[87:hps_main][Power/hotplug] mt_smp_boot_secondary, cpu: 1
+[   32.871644] -(1)[0:swapper/1]CPU1: Booted secondary processor
+[   32.871655] -(1)[0:swapper/1][Power/hotplug] platform_secondary_init, cpu: 1
+[   32.871755] -(1)[0:swapper/1]CPU1: update cpu_capacity 1024
+[   32.871764] -(1)[0:swapper/1]CPU1: thread -1, cpu 1, socket 0, mpidr 80000001
+[   32.872418]  (0)[87:hps_main][Power/hotplug] mt_smp_boot_secondary, cpu: 2
+[   32.872601] -(2)[0:swapper/2]CPU2: Booted secondary processor
+[   32.872612] -(2)[0:swapper/2][Power/hotplug] platform_secondary_init, cpu: 2
+[   32.872724] -(2)[0:swapper/2]CPU2: update cpu_capacity 1024
+[   32.872734] -(2)[0:swapper/2]CPU2: thread -1, cpu 2, socket 0, mpidr 80000002
+[   32.873487]  (0)[87:hps_main][Power/hotplug] mt_smp_boot_secondary, cpu: 3
+[   32.873682] -(3)[0:swapper/3]CPU3: Booted secondary processor
+[   32.873695] -(3)[0:swapper/3][Power/hotplug] platform_secondary_init, cpu: 3
+[   32.873830] -(3)[0:swapper/3]CPU3: update cpu_capacity 1024
+[   32.873840] -(3)[0:swapper/3]CPU3: thread -1, cpu 3, socket 0, mpidr 80000003
+[   32.874438]  (0)[87:hps_main][HPS] (0020)(1)action end(100)(544)(0)(0) (4)(4)(4)(4)(1) (17)(35)(1) (0)(0)(0) (1)(544)(36)(0)(544) wifi_base(0)
+[   32.971860]  (0)[56:cfinteractive][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 637000 KHz
+[   33.054058]  (1)[56:cfinteractive][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 494000 KHz
+[   33.151930]  (0)[56:cfinteractive][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   33.271835]  (0)[56:cfinteractive][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 494000 KHz
+[   33.475046]  (1)[87:hps_main][HPS] (0000)(4)DBG_HRT(16)(14)(0)(0) (4)(4)(4)(4)(1) (0)(0)(0) (374)(6)(6) (0)(14)(6)(0)(14) wifi_base(0)
+[   33.520292]  (3)[175:mtk charger_hv_][BATTERY] Disable check battery exist.
+[   33.676687]  (1)[87:hps_main]CPU3: shutdown
+[   33.676718]  (1)[87:hps_main][Power/hotplug] mt_cpu_kill, cpu: 3
+[   33.679278]  (1)[87:hps_main]CPU2: shutdown
+[   33.679307]  (1)[87:hps_main][Power/hotplug] mt_cpu_kill, cpu: 2
+[   33.681858]  (0)[87:hps_main]CPU1: shutdown
+[   33.681889]  (0)[87:hps_main][Power/hotplug] mt_cpu_kill, cpu: 1
+[   33.683535]  (0)[87:hps_main][HPS] (0200)(4)action end(2)(3)(0)(0) (4)(4)(4)(4)(1) (0)(0)(0) (380)(8)(0) (0)(3)(8)(0)(3) wifi_base(0)
+[   34.722119]  (0)[175:mtk charger_hv_][BATTERY] Disable check battery exist.
+[   34.981946]  (0)[56:cfinteractive][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   34.985015]  (0)[87:hps_main][HPS] (0000)(1)DBG_HRT(35)(113)(0)(0) (4)(4)(4)(4)(1) (37)(13)(1) (0)(0)(0) (0)(113)(13)(0)(113) wifi_base(0)
+[   35.181752]  (0)[56:cfinteractive][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 494000 KHz
+[   35.554238]  (0)[676:PhotonicModulat][PWM] disp_pwm_set_backlight_cmdq(id = 0x1, level_1024 = 0), old = 40
+[   35.581915]  (0)[56:cfinteractive][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1162mv, freq = 1248000 KHz
+[   35.620195]  (0)[238:surfaceflinger][DISP]mtkfb_open
+[   35.650702]  (0)[174:bat_thread_kthr][BAT_thread]Cable in, CHR_Type_num=1
+[   35.672482]  (0)[238:surfaceflinger]<<Lcm_trace>>:[LCM-OTM1285A-DSI-VDO] lcm_suspend (line:3420) :lcm_suspend
+[   35.723315]  (0)[56:cfinteractive][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 950mv, freq = 494000 KHz
+[   35.782208]  (0)[174:bat_thread_kthr]AvgVbat=(4277,4369),AvgI=(492,220),VChr=5071,AvgT=(26,26),SOC=(100,100),UI_SOC=100,ZCV=4349 bcct:0:0 I:65000
+[   35.782219]  (0)[174:bat_thread_kthr][BATTERY] Disable check battery exist.
+[   35.785041]  (0)[174:bat_thread_kthr][BATTERY] Default CC mode charging : 50000, input current = 50000
+[   35.787007]  (0)[174:bat_thread_kthr]Can't find closest level, small value first 
+[   35.804716]  (0)[174:bat_thread_kthr][100percent], UI_SOC(100), reset(0) bat_full(1) ever100(1)
+[   35.808063]  (0)[174:bat_thread_kthr][recharging] UI_SOC=100, SOC=100
+[   35.808075]  (0)[174:bat_thread_kthr]UI_SOC=(100), resetBatteryMeter=(0)
+[   35.808100] -(0)[174:bat_thread_kthr]mtk_rtc_hal_common: rtc_spare_reg[0] = {16412, 127, 8}
+[   35.923698]  (0)[175:mtk charger_hv_][BATTERY] Disable check battery exist.
+[   35.987241]  (0)[238:surfaceflinger][Power/cpufreq] @_mt_cpufreq_lcm_status_switch: LCM is off
+[   35.987527]  (0)[238:surfaceflinger][name:mt_cpufreq&][Power/cpufreq] @_mt_cpufreq_set_locked(): Vproc = 1068mv, freq = 1027000 KHz
+[   35.987565]  (0)[238:surfaceflinger]
+[   35.987565] <<SOC DVFS FLIPER>> Early Suspend and flip to E(0)
+[   35.987570]  (0)[238:surfaceflinger]fliper disable ---
+[   35.987580]  (0)[238:surfaceflinger]*** MsDrvInterfaceTouchDeviceSuspend() ***
+[   35.987586]  (0)[238:surfaceflinger]*** DrvPlatformLyrFingerTouchReleased() ***
+[   35.987591]  (0)[238:surfaceflinger]point touch released
+[   35.988113]  (0)[238:surfaceflinger]*** DrvPlatformLyrDisableFingerTouchReport() ***
+[   35.988120]  (0)[238:surfaceflinger]*** DrvPlatformLyrDisableFingerTouchReport() _gInterruptFlag = 1 ***
+[   35.988129]  (0)[238:surfaceflinger]*** DrvPlatformLyrTouchDevicePowerOff() ***
+[   35.988135]  (0)[238:surfaceflinger]*** DrvFwCtrlOptimizeCurrentConsumption() ***
+[   35.988140]  (0)[238:surfaceflinger]g_ChipType = 0x7a
+[   35.988145]  (0)[238:surfaceflinger]Dma memory reset!
+[   35.988151]  (0)[238:surfaceflinger]*** DrvPlatformLyrTouchDeviceResetHw() ***
+[   36.029702]  (0)[238:surfaceflinger]ERROR,503: id=1,addr: 59, transfer error
+[   36.029708]  (0)[238:surfaceflinger]ERROR,509: I2C_ACKERR
+[   36.029715]  (0)[238:surfaceflinger]I2C(1) dump info++++++++++++++++++++++
+[   36.029728]  (0)[238:surfaceflinger]I2C structure:
+[   36.029728] [I2C]Clk=8531,Id=1,Speed mode=1,St_rs=0,Dma_en=0,Op=1,Poll_en=0,Irq_stat=2
+[   36.029728] [I2C]Trans_len=1,Trans_num=1,Trans_auxlen=0,Data_size=ffff,speed=100
+[   36.029728] [I2C]Trans_stop=1,Trans_comp=0,Trans_error=2
+[   36.029734]  (0)[238:surfaceflinger]base address 0xe174e000
+[   36.029754]  (0)[238:surfaceflinger]I2C register:
+[   36.029754] [I2C]SLAVE_ADDR=b2,INTR_MASK=f8,INTR_STAT=1,CONTROL=28,TRANSFER_LEN=1
+[   36.029754] [I2C]TRANSAC_LEN=1,DELAY_LEN=2,TIMING=1121,START=0,FIFO_STAT=1101
+[   36.029754] [I2C]IO_CONFIG=3,HS=102,DCM_EN=0,DEBUGSTAT=40,EXT_CONF=8001,TRANSFER_LEN_AUX=0
+[   36.029767]  (0)[238:surfaceflinger]before enable DMA register(0x-512458240):
+[   36.029767] [I2C]INT_FLAG=0,INT_EN=0,EN=0,RST=0,
+[   36.029767] [I2C]STOP=0,FLUSH=0,CON=0,TX_MEM_ADDR=5a1fd000, RX_MEM_ADDR=5a1fd000
+[   36.029767] [I2C]TX_LEN=9,RX_LEN=0,INT_BUF_SIZE=0,DEBUG_STATUS=1b1b1b00
+[   36.029785]  (0)[238:surfaceflinger]DMA register(0xe1748200):
+[   36.029785] [I2C]INT_FLAG=1,INT_EN=0,EN=0,RST=0,
+[   36.029785] [I2C]STOP=0,FLUSH=0,CON=0,TX_MEM_ADDR=5a1fd009, RX_MEM_ADDR=0
+[   36.029785] [I2C]TX_LEN=0,RX_LEN=0,INT_BUF_SIZE=0,DEBUG_STATUS=9090900
+[   36.029791]  (0)[238:surfaceflinger]I2C(1) dump info------------------------------
+[   36.029801]  (0)[238:surfaceflinger]IicWriteData() error -22, nSlaveId=89, nSize=1
+[   36.029830]  (0)[238:surfaceflinger]*** DrvPlatformLyrTouchDeviceRegulatorPowerOn() ***
+[   36.486571]  (0)[87:hps_main][HPS] (0000)(1)DBG_HRT(0)(0)(0)(0) (4)(4)(4)(4)(1) (1)(28)(0) (0)(0)(0) (0)(0)(28)(0)(0) wifi_base(0)
+[   37.125106]  (0)[175:mtk charger_hv_][BATTERY] Disable check battery exist.
+[   37.287232] -(0)[0:swapper/0][Power/swap]CNT(soidle,rgidle): [0] = (0,18876), [1] = (0,17656), [2] = (0,13893), [3] = (0,10228), 
+[   37.287258] -(0)[0:swapper/0][Power/swap]soidle_block_cnt: [by_cpu] = 15513, [by_clk] = 2933, [by_tmr] = 0, [by_oth] = 21, [by_vtg] = 0, 
+[   37.287275] -(0)[0:swapper/0][Power/swap]soidle_block_mask: 0x00000000, 0x00000400, 0x00000000, 0x00000000, 0x00000000, 0x00000000, 0x00000000, 0x00000000, 0x00000000, 0x00000000, 
+[   37.987579]  (0)[87:hps_main][HPS] (0000)(1)DBG_HRT(0)(0)(0)(0) (4)(4)(4)(4)(1) (0)(43)(1) (0)(0)(0) (0)(0)(43)(0)(0) wifi_base(0)
+[   38.326435]  (0)[175:mtk charger_hv_][BATTERY] Disable check battery exist.
+[   39.488493]  (0)[87:hps_main][HPS] (0000)(1)DBG_HRT(0)(0)(0)(0) (4)(4)(4)(4)(1) (0)(58)(0) (0)(0)(0) (0)(0)(58)(0)(0) wifi_base(0)
+[   39.527771]  (0)[175:mtk charger_hv_][BATTERY] Disable check battery exist.
+[   40.367571]  (0)[55:dlpt_notify_thr][PBM] [ma_to_mw] 4368(mV) * 5163(mA) = 22551(mW)
+[   40.729109]  (0)[175:mtk charger_hv_][BATTERY] Disable check battery exist.
+[   40.989417]  (0)[87:hps_main][HPS] (0000)(1)DBG_HRT(0)(0)(0)(0) (4)(4)(4)(4)(1) (0)(73)(1) (0)(0)(0) (0)(0)(73)(0)(0) wifi_base(0)
+[   41.930427]  (0)[175:mtk charger_hv_][BATTERY] Disable check battery exist.
