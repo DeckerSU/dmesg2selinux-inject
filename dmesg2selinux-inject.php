@@ -55,7 +55,14 @@ for ($i=0; $i<count($output_array[1]); $i++) {
 foreach($sepolicy as $source => $targets) {
 	foreach($targets as $target => $contexts) {
 		foreach ($contexts as $context => $rules) {
-				echo "sepolicy-inject -s ".$source." -t ".$target." -c ".$context." -p ".$rules." -P ./sepolicy\n";
+				// echo "sepolicy-inject -s ".$source." -t ".$target." -c ".$context." -p ".$rules." -P ./sepolicy\n";
+
+				// format for *.te
+				echo "allow ".$source." ".$target.":".$context;
+				$rules_te = explode(",",$rules);
+				if (count($rules_te) > 1) { echo " { ".implode(" ",$rules_te)." }"; } else	
+					echo " ".$rules_te[0];
+				echo ";\n";
 
 		}
 	}
