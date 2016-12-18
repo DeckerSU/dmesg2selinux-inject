@@ -8,7 +8,9 @@ $ct_array = Array("u","r","object_r","s0");
 // scontext=u:r:mediaserver:s0 tcontext=u:object_r:nvram_device:s0 tclass=blk_file permissive=1
 // sepolicy-inject -s surfaceflinger -t rootfs -c file -p execute -P ./sepolicy
 
-preg_match_all("/.+avc: denied \{(.*)\}.*comm=\"(.*)\".*scontext=(.*)\stcontext=(.*)\stclass=(.*)\spermissive=\d+/i", $input_lines, $output_array);
+// [    2.441922]  (0)[1:init]audit: type=1400 audit(1262304014.650:4): avc:  denied  { execute } for  pid=1 comm="init" name="init" dev="rootfs" ino=6938 scontext=u:r:kernel:s0 tcontext=u:object_r:rootfs:s0 tclass=file permissive=0
+
+preg_match_all("/.+avc:\s+denied\s+\{(.*)\}.*comm=\"(.*)\".*scontext=(.*)\stcontext=(.*)\stclass=(.*)\spermissive=\d+/i", $input_lines, $output_array);
 
 $sepolicy = Array();
 
@@ -55,14 +57,16 @@ for ($i=0; $i<count($output_array[1]); $i++) {
 foreach($sepolicy as $source => $targets) {
 	foreach($targets as $target => $contexts) {
 		foreach ($contexts as $context => $rules) {
-				// echo "sepolicy-inject -s ".$source." -t ".$target." -c ".$context." -p ".$rules." -P ./sepolicy\n";
+				echo "sepolicy-inject -s ".$source." -t ".$target." -c ".$context." -p ".$rules." -P ./sepolicy\n";
 
 				// format for *.te
+				/*
 				echo "allow ".$source." ".$target.":".$context;
 				$rules_te = explode(",",$rules);
 				if (count($rules_te) > 1) { echo " { ".implode(" ",$rules_te)." }"; } else	
 					echo " ".$rules_te[0];
 				echo ";\n";
+				*/
 
 		}
 	}
